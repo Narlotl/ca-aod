@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>CA School District Drug Use</title>
+        <link rel="icon" href="icon.png">
+        <link rel="stylesheet" href="./node_modules/leaflet/dist/leaflet.css">
+        <script src="./node_modules/leaflet/dist/leaflet.js"></script>
+        <script src="./node_modules/leaflet.vectorgrid/dist/Leaflet.VectorGrid.min.js"></script>
+        <script src="./node_modules/leaflet.pattern/dist/leaflet.pattern.js"></script>
+
+        <style>
+            body {
+                margin: 0;
+            }
+
+            #map {
+                height: 100vh;
+                background-color: #888;
+            }
+
+            .info {
+                background-color: white;
+                padding: 1rem;
+                border-radius: 0.25rem;
+                text-align: right;
+            }
+
+            .info > h4 {
+                margin: 0;
+            }
+
+            .leaflet-top.leaflet-right {
+                max-width: 50%;
+            }
+
+            .legend {
+                line-height: 18px;
+                text-align: left;
+            }
+
+            .legend span {
+                outline: 1px solid;
+                width: 18px;
+                height: 18px;
+                float: left;
+                margin-right: 8px;
+            }
+
+            .buttons {
+                font: bold 18px 'Lucida Console', Monaco, monospace;
+                cursor: pointer;
+            }
+
+            .leaflet-control > a {
+                transition: 0.25s;
+            }
+
+            path.leaflet-interactive {
+                transition: 0.25s stroke-width, 0.25s fill-opacity;
+            }
+
+            .popup {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                margin-right: -50%;
+                transform: translate(-50%, -50%);
+                z-index: 1001;
+                border-radius: 0.25rem;
+                background-color: white;
+                padding: 1rem;
+                font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+                max-width: 75%;
+                max-height: 75%;
+            }
+
+            @media only screen and (max-width: 600px) {
+                .popup {
+                    max-width: 100%;
+                    max-height: 100%;
+                }
+            }
+
+            .popup-heading > span {
+                max-width: 75%;
+            }
+
+            .close-button {
+                float: right;
+                text-decoration: none;
+                color: inherit;
+            }
+
+            .hidden {
+                display: none;
+            }
+
+            table, th, td {
+                border: 1px solid black;
+                border-collapse: collapse;
+            }
+
+            th, td {
+                padding: 0.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="popup" id="info">
+            <h1 class="popup-heading">
+                <span>Mapping Drug Use in California High Schools</span>
+                <a href="javascript:void(0)" id="info-close" class="close-button">✕</a>
+            </h1>
+            School districts in California are encouraged every year to administer the 
+            <a target="_blank" href="https://www.cde.ca.gov/ls/he/at/chks.asp">California Healthy Kids Survey (CHKS)</a>
+            to their 9th and 11th grade students.
+            The survey includes questions about student alcohol or drug (AOD) use.
+            This project uses the response data from these surveys to map the percent of students who have used drugs in their lifetime in each district.
+            <h2>Source code and data</h2>
+            This is an open source project. Code, data, and instructions on how to run it for yourself are on
+            <a target="_blank" href="https://github.com/Narlotl/ca-aod/">Narlotl/ca-aod</a> on GitHub.
+            <h2>Data</h2>
+            <ul>
+                <li>
+                    Percent data from CHKS responses parsed from California Department of Education
+                    <a target="_blank" href="https://dq.cde.ca.gov/dataquest/page2.asp?level=District&subject=HKids&submit1=Submit">report files</a>*.
+                </li>
+                <li>
+                    District boundaries from
+                    <a target="_blank" href="https://gis.data.ca.gov/datasets/CDEGIS::california-school-district-areas-2023-24/about">California School District Areas 2023-24</a>
+                    dataset on the California State Geoportal.
+                </li>
+            </ul>
+            <small style="color: #444">*It is important to interpret these results with caution. Results can be significantly impacted by response rates, the type of parental consent used (passive or active), gender differences, regional variations, and other issues. The CHKS is only one of many data sources.</small>
+        </div>
+        <div class="popup hidden" id="table">
+            <h2 class="popup-heading">
+                <span id="table-district"></span>
+                <a href="javascript:void(0)" id="table-close" class="close-button">✕</a>
+            </h2>
+            <table style="margin-bottom: 0.5rem; text-align: center">
+                <thead>
+                    <tr>
+                        <th>Grade</th>
+                        <th>Percent</th>
+                    </tr>
+                </thead>
+                <tbody id="table-rows"></tbody>
+            </table>
+            <small>
+                <span id="citation-district"></span>.
+                <i>California Healthy Kids Survey, <span id="citation-year"></span>: Main Report.</i>
+                San Francisco: WestEd for the California Department of Education.
+            </small>
+        </div>
+
+        <div id="map"></div>
+        <script>
+            const grade = '11';
+
+            const map = L.map('map', {
+                center: [37.16611, -119.44944],
+                zoom: 7,
+                minZoom: 6,
+                maxZoom: 12,
+                maxBounds: [[42.009444, -124.415278], [32.534444, -114.131111]]
+            });
+
+            let max = 100.01;
+            const colors = ['#fff5eb','#fee6ce','#fdd0a2','#fdae6b','#fd8d3c','#f16913','#d94801','#a63603','#7f2704', '#dddddd'];
+            const getIndex = properties => {
+                const percent = properties.percents[grade];
+                if (!percent)
+                    return colors.length - 1;
+                return Math.floor(percent / max * 9);
+            };
+
+            const dataWindow = L.control();
+            dataWindow.onAdd = () => {
+                this._data = L.DomUtil.create('div', 'info data');
+                return this._data;
+            };
+            // https://stackoverflow.com/a/4819886
+            const touch = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0);
+            const infoMessage = '<h4>' + (touch ? 'Tap' : 'Hover') + ' a district to see info and ' + (touch ? 'select.' : 'click to select.') + '</h4>';
+            dataWindow.update = properties => {
+                if (properties) {
+                    let html = `<h4>${properties.name} (${properties.year}${properties.year <= 2022 && properties.percents[grade] ? ' ⚠️' : ''})</h4>\n`;
+                    if (properties.percents[grade])
+                        html += `<span>${properties.percents[grade]}% (${rankings.indexOf(properties.name) + 1} / ${rankings.length})</span>`;
+                    else
+                        html += '<span>No data</span>';
+                    if (properties.year <= 2022 && properties.percents[grade]) {
+                        html += '<br><span>';
+                        if (properties.year <= 2015)
+                            html += 'This datum is over 10 years old and probably isn\'t representative of current numbers.';
+                        else if (properties.year <= 2020)
+                            html += 'This datum is over 5 years old and may not be representative of current numbers.';
+                        else
+                            html += 'This datum is from during COVID restrictions and may not be representative of normal numbers.';
+                        html += '</span>';
+                    }
+                    this._data.innerHTML = html;
+                }
+                else
+                    this._data.innerHTML = infoMessage;
+            };
+            dataWindow.addTo(map);
+            dataWindow.update();
+
+            const legend = L.control({ position: 'bottomleft' });
+            legend.onAdd = () => {
+                this._scale= L.DomUtil.create('div', 'info legend');
+                return this._scale;
+            };
+            legend.update = () => {
+                this._scale.innerHTML = '';
+
+                const length = colors.length - 1;
+                for (let i = 0; i < length; i++)
+                    this._scale.innerHTML += `
+                        <span style="background-color: ${colors[i]}"></span> ${Math.round(i / length * max)}&ndash;${Math.round((i + 1) / length * max)}%
+                        <br>
+                    `;
+                this._scale.innerHTML += `<span style="background-color: ${colors[colors.length - 1]}"></span> No data`;
+            }
+            legend.addTo(map);
+
+            const buttons = L.control({ position: 'topleft' });
+            buttons.onAdd = () => {
+                this._buttons = L.DomUtil.create('div', 'leaflet-bar buttons');
+                return this._buttons;
+            };
+            buttons.update = () => {
+                this._buttons.innerHTML = `
+                    <a id="info-button" title="Information">ⓘ</a>
+                    <a id ="download-button" class="leaflet-disabled" target="_blank" title="Download district report">⤓</a>
+                    <a id="table-button" class="leaflet-disabled" title="District data table">⊞</a>
+                `;
+            }
+            buttons.addTo(map);
+            buttons.update();
+
+            const infoWindow = document.getElementById('info');
+            const infoButton = document.getElementById('info-button');
+            const infoClose = document.getElementById('info-close');
+            infoButton.onclick = () => infoWindow.classList.toggle('hidden');
+            if (localStorage.getItem('infoClosed'))
+                infoWindow.classList.add('hidden');
+            infoClose.onclick = () => {
+                localStorage.setItem('infoClosed', true);
+                infoWindow.classList.add('hidden');
+            }
+
+            const downloadButton = document.getElementById('download-button');
+
+            let selectedTile;
+            const tableWindow = document.getElementById('table');
+            const tableButton = document.getElementById('table-button');
+            const tableDistrict = document.getElementById('table-district');
+            const tableRows = document.getElementById('table-rows');
+            const tableClose = document.getElementById('table-close');
+            const citationDistrict = document.getElementById('citation-district');
+            const citationYear = document.getElementById('citation-year');
+            tableButton.onclick = () => {
+                tableWindow.classList.toggle('hidden');
+                tableDistrict.innerText = selectedTile.name;
+                tableRows.innerHTML = Object.entries(selectedTile.percents).map(p => `
+                    <tr>
+                        <td>${p[0]}</td>
+                        <td>${p[1] || '&ndash;'}</td>
+                    </tr>
+                `).join('');
+
+                citationDistrict.innerText = selectedTile.name;
+                citationYear.innerText = selectedTile.year - 1 + '-' + selectedTile.year;
+            };
+            tableClose.onclick = () => tableWindow.classList.add('hidden');
+
+            const stripePatterns = [];
+            for (const color of colors) {
+                const stripes = new L.StripePattern({
+                    weight: 7.5,
+                    spaceWeight: 0.5,
+                    color: color,
+                    spaceColor: 'black',
+                    opacity: 1,
+                    spaceOpacity: 1,
+                });
+                stripes.addTo(map);
+                stripePatterns.push(stripes);
+            }
+
+            const rankings = [];
+
+            fetch('data/results.topojson').then(res => res.json()).then(data => {
+                const sorted = data.objects.results.geometries
+                    .filter(d => d.properties.percents[grade])
+                    .sort((a, b) => b.properties.percents[grade] - a.properties.percents[grade]);
+                for (const district of sorted)
+                    rankings.push(district.properties.name);
+                max = sorted[0].properties.percents[grade] + 0.01;
+                legend.update();
+
+                const tiles = L.vectorGrid.slicer(data, {
+                    vectorTileLayerStyles: {
+                        results: properties => {
+                            return {
+                                weight: 1,
+                                opacity: 1,
+                                color: '#000000',
+                                fillColor: colors[getIndex(properties)],
+                                fillOpacity: 0.9,
+                                fill: true,
+                                fillPattern: (properties.year <= 2022 && properties.percents[grade]) ? stripePatterns[getIndex(properties)] : ''
+                            }
+                        }
+                    },
+                    interactive: true,
+                    getFeatureId: f => f.properties.code
+                }).addTo(map);
+
+                const highlightTile = e => {
+                    if (selectedTile && !touch)
+                        return;
+
+                    const properties = e.layer.properties;
+                    dataWindow.update(properties);
+                    tiles.setFeatureStyle(properties.code, {
+                        weight: 3,
+                        opacity: 1,
+                        color: '#000000',
+                        fillColor: colors[getIndex(properties)],
+                        fillOpacity: 1,
+                        fill: true,
+                        fillPattern: (properties.year <= 2022 && properties.percents[grade]) ? stripePatterns[getIndex(properties)] : ''
+                    });
+                };
+                const resetTile = e => {
+                    if (selectedTile && !touch)
+                        return;
+
+                    dataWindow.update();
+                    tiles.resetFeatureStyle(e.layer.properties.code);
+                };
+
+                tiles.on('mouseover', highlightTile);
+                tiles.on('mouseout', resetTile);
+                tiles.on('click', e => {
+                    if (selectedTile) {
+                        if (selectedTile.code === e.layer.properties.code) {
+                            selectedTile = undefined;
+                            resetTile(e);
+
+                            downloadButton.classList.add('leaflet-disabled');
+                            tableButton.classList.add('leaflet-disabled');
+
+                            return;
+                        }
+
+                        tiles.resetFeatureStyle(selectedTile.code);
+                        selectedTile = undefined;
+                    }
+
+                    highlightTile(e);
+                    selectedTile = e.layer.properties;
+
+                    downloadButton.classList.remove('leaflet-disabled');
+                    downloadButton.href = 'https://data.calschls.org/resources/' + selectedTile.file;
+                    tableButton.classList.remove('leaflet-disabled');
+                });
+            });
+        </script>
+    </body>
+</html>
