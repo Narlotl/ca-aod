@@ -1,9 +1,11 @@
+// https://stackoverflow.com/a/4819886
+const touch = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0);
 
 const grade = '11';
 
 const map = L.map('map', {
     center: [37.16611, -119.44944],
-    zoom: 7,
+    zoom: touch ? 6 : 7,
     minZoom: 6,
     maxZoom: 12,
     maxBounds: [[42.009444, -124.415278], [32.534444, -114.131111]]
@@ -23,12 +25,10 @@ dataWindow.onAdd = () => {
     this._data = L.DomUtil.create('div', 'info data');
     return this._data;
 };
-// https://stackoverflow.com/a/4819886
-const touch = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0);
-const infoMessage = '<h4>' + (touch ? 'Tap' : 'Hover') + ' a district to see info and ' + (touch ? 'select.' : 'click to select.') + '</h4>';
+const infoMessage = '<strong>' + (touch ? 'Tap' : 'Hover') + ' a district to see info and ' + (touch ? 'select.' : 'click to select.') + '</strong>';
 dataWindow.update = properties => {
     if (properties) {
-        let html = `<h4>${properties.name} (${properties.year}${properties.year <= 2022 && properties.percents[grade] ? ' ⚠️' : ''})</h4>\n`;
+        let html = `<strong>${properties.name} (${properties.year}${properties.year <= 2022 && properties.percents[grade] ? ' ⚠️' : ''})</strong><br>`;
         if (properties.percents[grade])
             html += `<span>${properties.percents[grade]}% (${rankings.indexOf(properties.name) + 1} / ${rankings.length})</span>`;
         else

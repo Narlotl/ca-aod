@@ -4,6 +4,17 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>CA School District Drug Use</title>
+        <meta name="description" content="Mapping drug use in California high schools.">
+        <link rel="canonical" href="https://narlotl.github.io/ca-aod">
+        <link rel="alternate" hreflang="en" href="https://narlotl.github.io/ca-aod">
+
+        <meta property="og:title" content="CA School District Drug Use">
+        <meta property="og:description" content="Mapping drug use in California high schools.">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://narlotl.github.io/ca-aod">
+        <meta property="og:image" content="assets/og.png">
+        <meta property="og:image:alt" content="Preview of CA drug use map">
+
         <link rel="icon" href="assets/icon.png">
         <link rel="stylesheet" href="assets/leaflet/leaflet.css">
         <script src="assets/leaflet/leaflet.js"></script>
@@ -16,7 +27,7 @@
             <div class="popup-content">
                 <h1 class="popup-heading">
                     <span>Mapping Drug Use in California High Schools</span>
-                    <a href="javascript:void(0)" id="info-close" class="close-button">✕</a>
+                    <button id="info-close" class="close-button">✕</button>
                 </h1>
                 School districts in California are encouraged every year to administer the 
                 <a target="_blank" href="https://www.cde.ca.gov/ls/he/at/chks.asp">California Healthy Kids Survey (CHKS)</a>
@@ -46,7 +57,7 @@
                 <div class="popup-bg"></div>
                 <h2 class="popup-heading">
                     <span id="table-district"></span>
-                    <a href="javascript:void(0)" id="table-close" class="close-button">✕</a>
+                    <button id="table-close" class="close-button">✕</button>
                 </h2>
                 <table style="margin-bottom: 0.5rem; text-align: center">
                     <thead>
