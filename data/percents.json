@@ -756,7 +756,9 @@
   {
     "code": "1162653",
     "name": "Stony Creek Joint Unified",
-    "percents": {},
+    "percents": {
+      "All": 22
+    },
     "year": 2024,
     "file": "Stony_Creek_Joint_Unified_11_2324_Sec_CHKS_All.pdf"
   },
@@ -859,7 +861,9 @@
   {
     "code": "1275382",
     "name": "Mattole Unified",
-    "percents": {},
+    "percents": {
+      "All": 8
+    },
     "year": 2018,
     "file": "Mattole_Unified_1718_Sec_CHKS_HS_All.pdf"
   },
@@ -2671,7 +2675,9 @@
   {
     "code": "2375218",
     "name": "Leggett Valley Unified",
-    "percents": {},
+    "percents": {
+      "All": 40
+    },
     "year": 2024,
     "file": "Leggett_Valley_Unified_23_2324_Sec_CHKS_All_I.pdf"
   },
@@ -2762,7 +2768,9 @@
   {
     "code": "2565896",
     "name": "Surprise Valley Joint Unified",
-    "percents": {},
+    "percents": {
+      "All": 33
+    },
     "year": 2022,
     "file": "Surprise_Valley_Joint_Unified_2122_Sec_CHKS_All.pdf"
   },
@@ -2973,7 +2981,9 @@
   {
     "code": "1463297",
     "name": "Owens Valley Unified",
-    "percents": {},
+    "percents": {
+      "All": 21
+    },
     "year": 2024,
     "file": "Owens_Valley_Unified_14_2324_Sec_CHKS_All.pdf"
   },
@@ -3575,7 +3585,9 @@
   {
     "code": "5373833",
     "name": "Southern Trinity Joint Unified",
-    "percents": {},
+    "percents": {
+      "All": 45
+    },
     "year": 2021,
     "file": "Southern_Trinity_Joint_Unified_2021_Sec_CHKS_All.pdf"
   },

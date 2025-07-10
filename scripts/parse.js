@@ -21,7 +21,7 @@ for (const file of files) {
                     continue;
                 }
 
-                if (line.startsWith('Grade') || line === 'NT') {
+                if (line.startsWith('Grade') || line === 'NT' || line.startsWith('All') && line.endsWith('Table')) {
                     const cols = line.split(' ');
                     for (const col of cols) {
                         if (col.length === 0 || col === 'Grade' || col === 'Table')
