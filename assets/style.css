@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+}
+
+#map {
+    height: 100vh;
+    background-color: #888;
+}
+
+.info {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    text-align: right;
+}
+
+.info > h4 {
+    margin: 0;
+}
+
+.leaflet-top.leaflet-right {
+    max-width: 50%;
+}
+
+.legend {
+    line-height: 18px;
+    text-align: left;
+}
+
+.legend span {
+    outline: 1px solid;
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+}
+
+.buttons {
+    font: bold 18px 'Lucida Console', Monaco, monospace;
+    cursor: pointer;
+}
+
+.leaflet-control > a {
+    transition: 0.25s;
+}
+
+path.leaflet-interactive {
+    transition: 0.25s stroke-width, 0.25s fill-opacity;
+}
+
+.popup {
+    position: absolute;
+    z-index: 1001;
+    background-color: white;
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.popup-content {
+    margin: 1rem;
+}
+
+@media only screen and (min-width: 600px) {
+    .popup {
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+        border-radius: 0.25rem;
+        max-width: 75%;
+        max-height: 75%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .popup {
+        height: 100%;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .info {
+        text-align: initial;
+    }
+}
+
+.popup-heading > span {
+    max-width: 75%;
+}
+
+.close-button {
+    float: right;
+    text-decoration: none;
+    color: inherit;
+}
+
+.hidden {
+    display: none;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 0.5rem;
+}
