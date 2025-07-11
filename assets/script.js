@@ -130,7 +130,14 @@ for (const color of colors) {
 
 const rankings = [];
 
-fetch('data/results.topojson').then(res => res.json()).then(data => {
+caches.open('ca-aod').then(async cache => {
+    let data = await cache.match('data/results.topojson');
+    if (!data) {
+        await cache.add('data/results.topojson');
+        data = await cache.match('data/results.topojson');
+    }
+    data = await data.json();
+
     const sorted = data.objects.results.geometries
         .filter(d => d.properties.percents[grade])
         .sort((a, b) => b.properties.percents[grade] - a.properties.percents[grade]);
