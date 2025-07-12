@@ -1515,9 +1515,8 @@
     "name": "San Jose Unified",
     "percents": {
       "7": 26,
-      "9": 62,
-      "11": null,
-      "%": 47
+      "9": 47,
+      "11": 62
     },
     "year": 2010,
     "file": "San_Jose_sec0910_main.pdf"
@@ -1976,6 +1975,504 @@
     },
     "year": 2023,
     "file": "Riverbank_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2075606",
+    "name": "Chawanakee Unified",
+    "percents": {
+      "7": 15,
+      "9": 37,
+      "11": 57,
+      "NT": null
+    },
+    "year": 2015,
+    "file": "Chawanakee_Unified_1415_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2076414",
+    "name": "Yosemite Unified",
+    "percents": {
+      "7": null,
+      "9": null,
+      "11": 8,
+      "NT": null
+    },
+    "year": 2018,
+    "file": "Yosemite_Unified_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2165417",
+    "name": "Novato Unified",
+    "percents": {
+      "7": 14,
+      "9": 34,
+      "11": 46,
+      "NT": 58
+    },
+    "year": 2024,
+    "file": "Novato_Unified_21_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2165466",
+    "name": "San Rafael City High",
+    "percents": {
+      "7": null,
+      "9": 25,
+      "11": 47,
+      "NT": 58
+    },
+    "year": 2023,
+    "file": "San_Rafael_City_High_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2165482",
+    "name": "Tamalpais Union High",
+    "percents": {
+      "9": 47,
+      "10": 51,
+      "11": 63,
+      "12": 76
+    },
+    "year": 2024,
+    "file": "Tamalpais_Union_High_21_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "2173361",
+    "name": "Shoreline Unified",
+    "percents": {
+      "7": 14,
+      "9": 25,
+      "11": 48,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Shoreline_Unified_21_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2265532",
+    "name": "Mariposa County Unified",
+    "percents": {
+      "7": 9,
+      "9": 41,
+      "11": 29,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Mariposa_County_Unified_22_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2365540",
+    "name": "Anderson Valley Unified",
+    "percents": {
+      "9": 39,
+      "10": 25,
+      "11": 15,
+      "12": 46
+    },
+    "year": 2024,
+    "file": "Anderson_Valley_Unified_23_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "2365565",
+    "name": "Fort Bragg Unified",
+    "percents": {
+      "7": 21,
+      "9": 45,
+      "11": 57,
+      "NT": 70
+    },
+    "year": 2024,
+    "file": "Fort_Bragg_Unified_23_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "2365581",
+    "name": "Mendocino Unified",
+    "percents": {
+      "7": 24,
+      "9": 55,
+      "11": 92,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Mendocino_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2365599",
+    "name": "Point Arena Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 47,
+      "11": 56,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Point_Arena_Joint_Union_High_23_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2365607",
+    "name": "Round Valley Unified",
+    "percents": {
+      "7": 39,
+      "9": 63,
+      "11": null,
+      "NT": null
+    },
+    "year": 2018,
+    "file": "Round_Valley_Unified_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2365615",
+    "name": "Ukiah Unified",
+    "percents": {
+      "7": 20,
+      "9": 37,
+      "11": 61,
+      "NT": 91
+    },
+    "year": 2023,
+    "file": "Ukiah_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2365623",
+    "name": "Willits Unified",
+    "percents": {
+      "7": 17,
+      "9": null,
+      "11": null,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Willits_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2373866",
+    "name": "Potter Valley Community Unified",
+    "percents": {
+      "7": 20,
+      "9": 41,
+      "11": 36,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Potter_Valley_Community_Unified_23_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2373916",
+    "name": "Laytonville Unified",
+    "percents": {
+      "9": 50,
+      "10": 78,
+      "11": 55,
+      "12": 65
+    },
+    "year": 2024,
+    "file": "Laytonville_Unified_23_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "2375218",
+    "name": "Leggett Valley Unified",
+    "percents": {
+      "All": 40
+    },
+    "year": 2024,
+    "file": "Leggett_Valley_Unified_23_2324_Sec_CHKS_All_I.pdf"
+  },
+  {
+    "code": "2465698",
+    "name": "Hilmar Unified",
+    "percents": {
+      "7": 20,
+      "9": 22,
+      "11": 41,
+      "NT": 25
+    },
+    "year": 2024,
+    "file": "Hilmar_Unified_24_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2465730",
+    "name": "Le Grand Union High",
+    "percents": {
+      "9": 11,
+      "10": 20,
+      "11": null,
+      "12": null
+    },
+    "year": 2022,
+    "file": "Le_Grand_Union_High_2122_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "2465755",
+    "name": "Los Banos Unified",
+    "percents": {
+      "7": 13,
+      "9": 23,
+      "11": 36,
+      "NT": 47
+    },
+    "year": 2024,
+    "file": "Los_Banos_Unified_24_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2465789",
+    "name": "Merced Union High",
+    "percents": {
+      "7": null,
+      "9": 25,
+      "11": 24,
+      "NT": 47
+    },
+    "year": 2024,
+    "file": "Merced_Union_High_24_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2473619",
+    "name": "Gustine Unified",
+    "percents": {
+      "7": 23,
+      "9": 36,
+      "11": 53,
+      "NT": 40
+    },
+    "year": 2019,
+    "file": "Gustine_Unified_1819_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2475317",
+    "name": "Dos Palos Oro Loma Joint Unified",
+    "percents": {
+      "7": 15,
+      "9": 35,
+      "11": 52,
+      "NT": 6
+    },
+    "year": 2018,
+    "file": "Dos_Palos_Oro_Loma_Joint_Unified_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2475366",
+    "name": "Delhi Unified",
+    "percents": {
+      "9": 30,
+      "10": 48,
+      "11": 48,
+      "12": 24
+    },
+    "year": 2020,
+    "file": "Delhi_Unified_1920_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "2565896",
+    "name": "Surprise Valley Joint Unified",
+    "percents": {
+      "All": 33
+    },
+    "year": 2022,
+    "file": "Surprise_Valley_Joint_Unified_2122_Sec_CHKS_All.pdf"
+  },
+  {
+    "code": "2573585",
+    "name": "Modoc Joint Unified",
+    "percents": {
+      "7": 22,
+      "9": 46,
+      "11": 52,
+      "NT": null
+    },
+    "year": 2022,
+    "file": "Modoc_Joint_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2573593",
+    "name": "Tulelake Basin Joint Unified",
+    "percents": {
+      "7": 28,
+      "9": 38,
+      "11": 50,
+      "NT": null
+    },
+    "year": 2022,
+    "file": "Tulelake_Basin_Joint_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2673668",
+    "name": "Eastern Sierra Unified",
+    "percents": {
+      "7": 0,
+      "9": 31,
+      "11": 39,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Eastern_Sierra_Unified_26_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2673692",
+    "name": "Mammoth Unified",
+    "percents": {
+      "7": 13,
+      "9": 41,
+      "11": 41,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Mammoth_Unified_26_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2765987",
+    "name": "Carmel Unified",
+    "percents": {
+      "7": 11,
+      "9": 35,
+      "11": 44,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Carmel_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2766068",
+    "name": "South Monterey County Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 24,
+      "11": 39,
+      "NT": 28
+    },
+    "year": 2024,
+    "file": "South_Monterey_County_Joint_Union_High_27_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "2766092",
+    "name": "Monterey Peninsula Unified",
+    "percents": {
+      "7": 14,
+      "9": 27,
+      "11": 50,
+      "NT": 73
+    },
+    "year": 2017,
+    "file": "Monterey_Peninsula_Unified_1617_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2766134",
+    "name": "Pacific Grove Unified",
+    "percents": {
+      "7": 11,
+      "9": 17,
+      "11": 28,
+      "NT": 38
+    },
+    "year": 2024,
+    "file": "Pacific_Grove_Unified_27_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2766159",
+    "name": "Salinas Union High",
+    "percents": {
+      "7": null,
+      "9": 19,
+      "11": 24,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Salinas_Union_High_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2773825",
+    "name": "North Monterey County Unified",
+    "percents": {
+      "7": 14,
+      "9": 19,
+      "11": 27,
+      "NT": 20
+    },
+    "year": 2024,
+    "file": "North_Monterey_County_Unified_27_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2775440",
+    "name": "Soledad Unified",
+    "percents": {
+      "7": 5,
+      "9": 18,
+      "11": 26,
+      "NT": 17
+    },
+    "year": 2023,
+    "file": "Soledad_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2775473",
+    "name": "Gonzales Unified",
+    "percents": {
+      "7": 16,
+      "9": 8,
+      "11": 31,
+      "NT": null
+    },
+    "year": 2022,
+    "file": "Gonzales_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2866241",
+    "name": "Calistoga Joint Unified",
+    "percents": {
+      "7": 13,
+      "9": 18,
+      "11": 24,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Calistoga_Joint_Unified_28_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2866266",
+    "name": "Napa Valley Unified",
+    "percents": {
+      "7": 12,
+      "9": 21,
+      "11": 31,
+      "NT": 52
+    },
+    "year": 2024,
+    "file": "Napa_Valley_Unified_28_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2866290",
+    "name": "Saint Helena Unified",
+    "percents": {
+      "7": 12,
+      "9": 43,
+      "11": 63,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Saint_Helena_Unified_28_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2966357",
+    "name": "Nevada Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 32,
+      "11": 49,
+      "NT": 89
+    },
+    "year": 2024,
+    "file": "Nevada_Joint_Union_High_29_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3066431",
+    "name": "Anaheim Union High",
+    "percents": {
+      "7": 10,
+      "9": 23,
+      "11": 32,
+      "NT": 48
+    },
+    "year": 2022,
+    "file": "Anaheim_Union_High_2122_Sec_CHKS.pdf"
   },
   {
     "code": "1964444",
@@ -2479,504 +2976,6 @@
     },
     "year": 2012,
     "file": "GoldenVlyUSD_sec1112_main.pdf"
-  },
-  {
-    "code": "2075606",
-    "name": "Chawanakee Unified",
-    "percents": {
-      "7": 15,
-      "9": 37,
-      "11": 57,
-      "NT": null
-    },
-    "year": 2015,
-    "file": "Chawanakee_Unified_1415_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2076414",
-    "name": "Yosemite Unified",
-    "percents": {
-      "7": null,
-      "9": null,
-      "11": 8,
-      "NT": null
-    },
-    "year": 2018,
-    "file": "Yosemite_Unified_1718_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2165417",
-    "name": "Novato Unified",
-    "percents": {
-      "7": 14,
-      "9": 34,
-      "11": 46,
-      "NT": 58
-    },
-    "year": 2024,
-    "file": "Novato_Unified_21_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2165466",
-    "name": "San Rafael City High",
-    "percents": {
-      "7": null,
-      "9": 25,
-      "11": 47,
-      "NT": 58
-    },
-    "year": 2023,
-    "file": "San_Rafael_City_High_2223_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2165482",
-    "name": "Tamalpais Union High",
-    "percents": {
-      "9": 47,
-      "10": 51,
-      "11": 63,
-      "12": 76
-    },
-    "year": 2024,
-    "file": "Tamalpais_Union_High_21_2324_Sec_CHKS_Grd9-12_I.pdf"
-  },
-  {
-    "code": "2173361",
-    "name": "Shoreline Unified",
-    "percents": {
-      "7": 14,
-      "9": 25,
-      "11": 48,
-      "NT": null
-    },
-    "year": 2024,
-    "file": "Shoreline_Unified_21_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2265532",
-    "name": "Mariposa County Unified",
-    "percents": {
-      "7": 9,
-      "9": 41,
-      "11": 29,
-      "NT": null
-    },
-    "year": 2024,
-    "file": "Mariposa_County_Unified_22_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2365540",
-    "name": "Anderson Valley Unified",
-    "percents": {
-      "9": 39,
-      "10": 25,
-      "11": 15,
-      "12": 46
-    },
-    "year": 2024,
-    "file": "Anderson_Valley_Unified_23_2324_Sec_CHKS_Grd9-12.pdf"
-  },
-  {
-    "code": "2365565",
-    "name": "Fort Bragg Unified",
-    "percents": {
-      "7": 21,
-      "9": 45,
-      "11": 57,
-      "NT": 70
-    },
-    "year": 2024,
-    "file": "Fort_Bragg_Unified_23_2324_Sec_CHKS_I.pdf"
-  },
-  {
-    "code": "2365581",
-    "name": "Mendocino Unified",
-    "percents": {
-      "7": 24,
-      "9": 55,
-      "11": 92,
-      "NT": null
-    },
-    "year": 2023,
-    "file": "Mendocino_Unified_2223_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2365599",
-    "name": "Point Arena Joint Union High",
-    "percents": {
-      "7": null,
-      "9": 47,
-      "11": 56,
-      "NT": null
-    },
-    "year": 2024,
-    "file": "Point_Arena_Joint_Union_High_23_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2365607",
-    "name": "Round Valley Unified",
-    "percents": {
-      "7": 39,
-      "9": 63,
-      "11": null,
-      "NT": null
-    },
-    "year": 2018,
-    "file": "Round_Valley_Unified_1718_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2365615",
-    "name": "Ukiah Unified",
-    "percents": {
-      "7": 20,
-      "9": 37,
-      "11": 61,
-      "NT": 91
-    },
-    "year": 2023,
-    "file": "Ukiah_Unified_2223_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2365623",
-    "name": "Willits Unified",
-    "percents": {
-      "7": 17,
-      "9": null,
-      "11": null,
-      "NT": null
-    },
-    "year": 2023,
-    "file": "Willits_Unified_2223_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2373866",
-    "name": "Potter Valley Community Unified",
-    "percents": {
-      "7": 20,
-      "9": 41,
-      "11": 36,
-      "NT": null
-    },
-    "year": 2024,
-    "file": "Potter_Valley_Community_Unified_23_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2373916",
-    "name": "Laytonville Unified",
-    "percents": {
-      "9": 50,
-      "10": 78,
-      "11": 55,
-      "12": 65
-    },
-    "year": 2024,
-    "file": "Laytonville_Unified_23_2324_Sec_CHKS_Grd9-12.pdf"
-  },
-  {
-    "code": "2375218",
-    "name": "Leggett Valley Unified",
-    "percents": {
-      "All": 40
-    },
-    "year": 2024,
-    "file": "Leggett_Valley_Unified_23_2324_Sec_CHKS_All_I.pdf"
-  },
-  {
-    "code": "2465698",
-    "name": "Hilmar Unified",
-    "percents": {
-      "7": 20,
-      "9": 22,
-      "11": 41,
-      "NT": 25
-    },
-    "year": 2024,
-    "file": "Hilmar_Unified_24_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2465730",
-    "name": "Le Grand Union High",
-    "percents": {
-      "9": 11,
-      "10": 20,
-      "11": null,
-      "12": null
-    },
-    "year": 2022,
-    "file": "Le_Grand_Union_High_2122_Sec_CHKS_Grd9-12.pdf"
-  },
-  {
-    "code": "2465755",
-    "name": "Los Banos Unified",
-    "percents": {
-      "7": 13,
-      "9": 23,
-      "11": 36,
-      "NT": 47
-    },
-    "year": 2024,
-    "file": "Los_Banos_Unified_24_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2465789",
-    "name": "Merced Union High",
-    "percents": {
-      "7": null,
-      "9": 25,
-      "11": 24,
-      "NT": 47
-    },
-    "year": 2024,
-    "file": "Merced_Union_High_24_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2473619",
-    "name": "Gustine Unified",
-    "percents": {
-      "7": 23,
-      "9": 36,
-      "11": 53,
-      "NT": 40
-    },
-    "year": 2019,
-    "file": "Gustine_Unified_1819_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2475317",
-    "name": "Dos Palos Oro Loma Joint Unified",
-    "percents": {
-      "7": 15,
-      "9": 35,
-      "11": 52,
-      "NT": 6
-    },
-    "year": 2018,
-    "file": "Dos_Palos_Oro_Loma_Joint_Unified_1718_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2475366",
-    "name": "Delhi Unified",
-    "percents": {
-      "9": 30,
-      "10": 48,
-      "11": 48,
-      "12": 24
-    },
-    "year": 2020,
-    "file": "Delhi_Unified_1920_Sec_CHKS_Grd9-12.pdf"
-  },
-  {
-    "code": "2565896",
-    "name": "Surprise Valley Joint Unified",
-    "percents": {
-      "All": 33
-    },
-    "year": 2022,
-    "file": "Surprise_Valley_Joint_Unified_2122_Sec_CHKS_All.pdf"
-  },
-  {
-    "code": "2573585",
-    "name": "Modoc Joint Unified",
-    "percents": {
-      "7": 22,
-      "9": 46,
-      "11": 52,
-      "NT": null
-    },
-    "year": 2022,
-    "file": "Modoc_Joint_Unified_2122_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2573593",
-    "name": "Tulelake Basin Joint Unified",
-    "percents": {
-      "7": 28,
-      "9": 38,
-      "11": 50,
-      "NT": null
-    },
-    "year": 2022,
-    "file": "Tulelake_Basin_Joint_Unified_2122_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2673668",
-    "name": "Eastern Sierra Unified",
-    "percents": {
-      "7": 0,
-      "9": 31,
-      "11": 39,
-      "NT": null
-    },
-    "year": 2024,
-    "file": "Eastern_Sierra_Unified_26_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2673692",
-    "name": "Mammoth Unified",
-    "percents": {
-      "7": 13,
-      "9": 41,
-      "11": 41,
-      "NT": null
-    },
-    "year": 2024,
-    "file": "Mammoth_Unified_26_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2765987",
-    "name": "Carmel Unified",
-    "percents": {
-      "7": 11,
-      "9": 35,
-      "11": 44,
-      "NT": null
-    },
-    "year": 2023,
-    "file": "Carmel_Unified_2223_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2766068",
-    "name": "South Monterey County Joint Union High",
-    "percents": {
-      "7": null,
-      "9": 24,
-      "11": 39,
-      "NT": 28
-    },
-    "year": 2024,
-    "file": "South_Monterey_County_Joint_Union_High_27_2324_Sec_CHKS_I.pdf"
-  },
-  {
-    "code": "2766092",
-    "name": "Monterey Peninsula Unified",
-    "percents": {
-      "7": 14,
-      "9": 27,
-      "11": 50,
-      "NT": 73
-    },
-    "year": 2017,
-    "file": "Monterey_Peninsula_Unified_1617_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2766134",
-    "name": "Pacific Grove Unified",
-    "percents": {
-      "7": 11,
-      "9": 17,
-      "11": 28,
-      "NT": 38
-    },
-    "year": 2024,
-    "file": "Pacific_Grove_Unified_27_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2766159",
-    "name": "Salinas Union High",
-    "percents": {
-      "7": null,
-      "9": 19,
-      "11": 24,
-      "NT": null
-    },
-    "year": 2023,
-    "file": "Salinas_Union_High_2223_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2773825",
-    "name": "North Monterey County Unified",
-    "percents": {
-      "7": 14,
-      "9": 19,
-      "11": 27,
-      "NT": 20
-    },
-    "year": 2024,
-    "file": "North_Monterey_County_Unified_27_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2775440",
-    "name": "Soledad Unified",
-    "percents": {
-      "7": 5,
-      "9": 18,
-      "11": 26,
-      "NT": 17
-    },
-    "year": 2023,
-    "file": "Soledad_Unified_2223_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2775473",
-    "name": "Gonzales Unified",
-    "percents": {
-      "7": 16,
-      "9": 8,
-      "11": 31,
-      "NT": null
-    },
-    "year": 2022,
-    "file": "Gonzales_Unified_2122_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2866241",
-    "name": "Calistoga Joint Unified",
-    "percents": {
-      "7": 13,
-      "9": 18,
-      "11": 24,
-      "NT": null
-    },
-    "year": 2024,
-    "file": "Calistoga_Joint_Unified_28_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2866266",
-    "name": "Napa Valley Unified",
-    "percents": {
-      "7": 12,
-      "9": 21,
-      "11": 31,
-      "NT": 52
-    },
-    "year": 2024,
-    "file": "Napa_Valley_Unified_28_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2866290",
-    "name": "Saint Helena Unified",
-    "percents": {
-      "7": 12,
-      "9": 43,
-      "11": 63,
-      "NT": null
-    },
-    "year": 2024,
-    "file": "Saint_Helena_Unified_28_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "2966357",
-    "name": "Nevada Joint Union High",
-    "percents": {
-      "7": null,
-      "9": 32,
-      "11": 49,
-      "NT": 89
-    },
-    "year": 2024,
-    "file": "Nevada_Joint_Union_High_29_2324_Sec_CHKS.pdf"
-  },
-  {
-    "code": "3066431",
-    "name": "Anaheim Union High",
-    "percents": {
-      "7": 10,
-      "9": 23,
-      "11": 32,
-      "NT": 48
-    },
-    "year": 2022,
-    "file": "Anaheim_Union_High_2122_Sec_CHKS.pdf"
   },
   {
     "code": "1463297",

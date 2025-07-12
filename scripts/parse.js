@@ -24,7 +24,7 @@ for (const file of files) {
                 if (line.startsWith('Grade') || line === 'NT' || line.startsWith('All') && line.endsWith('Table')) {
                     const cols = line.split(' ');
                     for (const col of cols) {
-                        if (col.length === 0 || col === 'Grade' || col === 'Table')
+                        if (col.length === 0 || col === 'Grade' || col === 'Table' || col === '%')
                             continue;
                         if (!grades.includes(col))
                             grades.push(col);
