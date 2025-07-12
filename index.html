@@ -54,7 +54,6 @@
         </div>
         <div class="popup hidden" id="table">
             <div class="popup-content">
-                <div class="popup-bg"></div>
                 <h2 class="popup-heading">
                     <span id="table-district"></span>
                     <button id="table-close" class="close-button">✕</button>
@@ -73,6 +72,53 @@
                     <i>California Healthy Kids Survey, <span id="citation-year"></span>: Main Report.</i>
                     San Francisco: WestEd for the California Department of Education.
                 </small>
+            </div>
+        </div>
+        <div class="popup hidden" id="settings">
+            <div class="popup-content">
+                <h2 class="popup-heading">
+                    <span>Settings</span>
+                    <button id="settings-close" class="close-button">✕</button>
+                </h2>
+                <div>
+                    <strong>Select a grade:</strong>
+                    <form id="grades" autocomplete="off">
+                        <label>
+                            <input type="radio" value="All" name="grades">
+                            All
+                        </label>
+                        <br>
+                        <label>
+                            <input type="radio" value="7" name="grades">
+                            7
+                        </label>
+                        <br>
+                        <label>
+                            <input type="radio" value="9" name="grades">
+                            9
+                        </label>
+                        <br>
+                        <label>
+                            <input type="radio" value="10" name="grades">
+                            10
+                        </label>
+                        <br>
+                        <label>
+                            <input type="radio" value="11" checked="checked" name="grades">
+                            11
+                        </label>
+                        <br>
+                        <label>
+                            <input type="radio" value="12" name="grades">
+                            12
+                        </label>
+                        <br>
+                        <label>
+                            <input type="radio" value="NT" name="grades">
+                            NT
+                        </label>
+                    </form>
+                </div>
             </div>
         </div>
 

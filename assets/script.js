@@ -1,7 +1,7 @@
 // https://stackoverflow.com/a/4819886
 const touch = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0);
 
-const grade = '11';
+let grade = '11';
 
 const map = L.map('map', {
     center: [37.16611, -119.44944],
@@ -10,6 +10,7 @@ const map = L.map('map', {
     maxZoom: 12,
     maxBounds: [[42.009444, -124.415278], [32.534444, -114.131111]]
 });
+let tiles;
 
 let max = 100.01;
 const colors = ['#fff5eb', '#fee6ce', '#fdd0a2', '#fdae6b', '#fd8d3c', '#f16913', '#d94801', '#a63603', '#7f2704', '#dddddd'];
@@ -76,10 +77,11 @@ buttons.onAdd = () => {
 };
 buttons.update = () => {
     this._buttons.innerHTML = `
-<a id="info-button" title="Information">ⓘ</a>
-<a id ="download-button" class="leaflet-disabled" target="_blank" title="Download district report">⤓</a>
-<a id="table-button" class="leaflet-disabled" title="District data table">⊞</a>
-`;
+        <a id="info-button" title="Information">ⓘ</a>
+        <a id ="download-button" class="leaflet-disabled" target="_blank" title="Download district report">⤓</a>
+        <a id="table-button" class="leaflet-disabled" title="District data table">⊞</a>
+        <a id="settings-button" class="leaflet-disabled" title="Settings">⚙</a>
+    `;
 }
 buttons.addTo(map);
 buttons.update();
@@ -90,6 +92,7 @@ const infoClose = document.getElementById('info-close');
 infoButton.onclick = () => {
     tableWindow.classList.add('hidden');
     infoWindow.classList.toggle('hidden');
+    settingsWindow.classList.add('hidden');
 };
 if (localStorage.getItem('infoClosed'))
     infoWindow.classList.add('hidden');
@@ -100,7 +103,6 @@ infoClose.onclick = () => {
 
 const downloadButton = document.getElementById('download-button');
 
-let selectedTile;
 const tableWindow = document.getElementById('table');
 const tableButton = document.getElementById('table-button');
 const tableDistrict = document.getElementById('table-district');
@@ -109,10 +111,33 @@ const tableClose = document.getElementById('table-close');
 const citationDistrict = document.getElementById('citation-district');
 const citationYear = document.getElementById('citation-year');
 tableButton.onclick = () => {
+    if (tableButton.classList.contains('leaflet-disabled'))
+        return;
+
     infoWindow.classList.add('hidden');
     tableWindow.classList.toggle('hidden');
+    settingsWindow.classList.add('hidden');
 };
 tableClose.onclick = () => tableWindow.classList.add('hidden');
+
+const settingsButton = document.getElementById('settings-button');
+const settingsClose = document.getElementById('settings-close');
+const settingsWindow = document.getElementById('settings');
+const gradesForm = document.getElementById('grades');
+settingsButton.onclick = () => {
+    if (settingsButton.classList.contains('leaflet-disabled'))
+        return;
+
+    infoWindow.classList.add('hidden');
+    tableWindow.classList.add('hidden');
+    settingsWindow.classList.toggle('hidden');
+};
+settingsClose.onclick = () => settingsWindow.classList.add('hidden');
+gradesForm.onchange = e => {
+    grade = e.target.value;
+    updateRankings();
+    tiles.redraw();
+};
 
 const stripePatterns = [];
 for (const color of colors) {
@@ -129,24 +154,27 @@ for (const color of colors) {
 }
 
 const rankings = [];
+let selectedTile;
 
-caches.open('ca-aod').then(async cache => {
-    let data = await cache.match('data/results.topojson');
-    if (!data) {
-        await cache.add('data/results.topojson');
-        data = await cache.match('data/results.topojson');
-    }
-    data = await data.json();
-
+const updateRankings = () => {
+    console.log(rankings)
+    const length = rankings.length; // Otherwise the length decreases each time and array isn't cleared
+    for (let i = 0; i < length; i++)
+        rankings.pop();
+    console.log(rankings)
     const sorted = data.objects.results.geometries
-        .filter(d => d.properties.percents[grade])
+        .filter(d => grade in d.properties.percents)
         .sort((a, b) => b.properties.percents[grade] - a.properties.percents[grade]);
     for (const district of sorted)
         rankings.push(district.properties.name);
     max = sorted[0].properties.percents[grade] + 0.01;
     legend.update();
+}
 
-    const tiles = L.vectorGrid.slicer(data, {
+const addTiles = () => {
+    updateRankings();
+
+    tiles = L.vectorGrid.slicer(data, {
         vectorTileLayerStyles: {
             results: properties => {
                 return {
@@ -164,7 +192,27 @@ caches.open('ca-aod').then(async cache => {
         getFeatureId: f => f.properties.code
     }).addTo(map);
 
+    return tiles;
+};
+
+let data;
+const getData = async () => {
+    const cache = await caches.open('ca-aod');
+    data = await cache.match('data/results.topojson');
+    if (!data) {
+        await cache.add('data/results.topojson');
+        data = await cache.match('data/results.topojson');
+    }
+    data = await data.json();
+
+    return data;
+}
+
+getData().then(() => {
+    const tiles = addTiles();
+
     const highlightTile = e => {
+        // If desktop user has a selected tile, moving mouse shouldn't change it
         if (selectedTile && !touch)
             return;
 
@@ -181,6 +229,7 @@ caches.open('ca-aod').then(async cache => {
         });
     };
     const resetTile = e => {
+        // If desktop user has a selected tile, moving mouse shouldn't change it
         if (selectedTile && !touch)
             return;
 
@@ -209,16 +258,17 @@ caches.open('ca-aod').then(async cache => {
             selectedTile = undefined;
         }
 
+        // Add district information to windows
         highlightTile(e);
         selectedTile = e.layer.properties;
 
         tableDistrict.innerText = selectedTile.name;
         tableRows.innerHTML = Object.entries(selectedTile.percents).map(p => `
-<tr>
-<td>${p[0]}</td>
-<td>${p[1] || '&ndash;'}</td>
-</tr>
-`).join('');
+            <tr>
+            <td>${p[0]}</td>
+            <td>${p[1] || '&ndash;'}</td>
+            </tr>
+        `).join('');
 
         citationDistrict.innerText = selectedTile.name;
         citationYear.innerText = selectedTile.year - 1 + '-' + selectedTile.year;
@@ -227,4 +277,7 @@ caches.open('ca-aod').then(async cache => {
         downloadButton.href = 'https://data.calschls.org/resources/' + selectedTile.file;
         tableButton.classList.remove('leaflet-disabled');
     });
+
+    // Everything is loaded, settings can be accessed now
+    settingsButton.classList.remove('leaflet-disabled');
 });
