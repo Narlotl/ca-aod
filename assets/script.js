@@ -26,10 +26,10 @@ dataWindow.onAdd = () => {
     this._data = L.DomUtil.create('div', 'info data');
     return this._data;
 };
-const infoMessage = '<strong>' + (touch ? 'Tap' : 'Hover') + ' a district to see info and ' + (touch ? 'select.' : 'click to select.') + '</strong>';
+const infoMessage = '<b>' + (touch ? 'Tap' : 'Hover') + ' a district to see info and ' + (touch ? 'select.' : 'click to select.') + '</b>';
 dataWindow.update = properties => {
     if (properties) {
-        let html = `<strong>${properties.name} (${properties.year}${properties.year <= 2022 && properties.percents[grade] ? ' ⚠️' : ''})</strong><br>`;
+        let html = `<b>${properties.name} (${properties.year}${properties.year <= 2022 && properties.percents[grade] ? ' ⚠️' : ''})</b><br>`;
         if (properties.percents[grade])
             html += `<span>${properties.percents[grade]}% (${rankings.indexOf(properties.name) + 1} / ${rankings.length})</span>`;
         else
@@ -157,11 +157,9 @@ const rankings = [];
 let selectedTile;
 
 const updateRankings = () => {
-    console.log(rankings)
     const length = rankings.length; // Otherwise the length decreases each time and array isn't cleared
     for (let i = 0; i < length; i++)
         rankings.pop();
-    console.log(rankings)
     const sorted = data.objects.results.geometries
         .filter(d => grade in d.properties.percents)
         .sort((a, b) => b.properties.percents[grade] - a.properties.percents[grade]);
