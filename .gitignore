@@ -1,8 +1,10 @@
 node_modules/
 
-data/reports
-
+data/reports/
 data/reports.html
 data/reports.json
 data/districts.json
 data/districts.geojson
+regression/reports.json
+regression/percents.json
+regression/reports/

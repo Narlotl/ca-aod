@@ -1,0 +1,5581 @@
+[
+  {
+    "code": "3467413",
+    "name": "River Delta Joint Unified",
+    "percents": {
+      "7": 15,
+      "9": 17,
+      "10": 17,
+      "11": 18,
+      "12": 23,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "River_Delta_Joint_Unified_34_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3467439",
+    "name": "Sacramento City Unified",
+    "percents": {
+      "7": 13,
+      "9": 25,
+      "10": 28,
+      "11": 33,
+      "12": 39,
+      "NT": 42
+    },
+    "year": 2023,
+    "file": "Sacramento_City_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3467447",
+    "name": "San Juan Unified",
+    "percents": {
+      "7": 15,
+      "9": 23,
+      "10": 27,
+      "11": 32,
+      "12": 38,
+      "NT": 57
+    },
+    "year": 2023,
+    "file": "San_Juan_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3473973",
+    "name": "Center Joint Unified",
+    "percents": {
+      "7": 24,
+      "9": 38,
+      "10": 42,
+      "11": 47,
+      "12": 55,
+      "NT": 8
+    },
+    "year": 2018,
+    "file": "Center_Joint_Unified_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3475283",
+    "name": "Natomas Unified",
+    "percents": {
+      "7": 9,
+      "9": 18,
+      "10": 24,
+      "11": 32,
+      "12": 39,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Natomas_Unified_34_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "3476505",
+    "name": "Twin Rivers Unified",
+    "percents": {
+      "9": 23,
+      "10": 24,
+      "11": 25,
+      "12": 28
+    },
+    "year": 2024,
+    "file": "Twin_Rivers_Unified_34_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "3567538",
+    "name": "San Benito High",
+    "percents": {
+      "7": null,
+      "9": 19,
+      "10": 28,
+      "11": 39,
+      "12": 47,
+      "NT": 34
+    },
+    "year": 2022,
+    "file": "San_Benito_High_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3575259",
+    "name": "Aromas-San Juan Unified",
+    "percents": {
+      "9": 29,
+      "10": 28,
+      "11": 31,
+      "12": 49
+    },
+    "year": 2023,
+    "file": "Aromas_-_San_Juan_Unified_2223_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "3667611",
+    "name": "Barstow Unified",
+    "percents": {
+      "7": 19,
+      "9": 39,
+      "11": null,
+      "NT": null
+    },
+    "year": 2022,
+    "file": "Barstow_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3667637",
+    "name": "Bear Valley Unified",
+    "percents": {
+      "7": 25,
+      "9": 50,
+      "10": 50,
+      "11": 48,
+      "12": 55,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Bear_Valley_Unified_36_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3667678",
+    "name": "Chino Valley Unified",
+    "percents": {
+      "7": 10,
+      "9": 20,
+      "10": 24,
+      "11": 29,
+      "12": 35,
+      "NT": 36
+    },
+    "year": 2024,
+    "file": "Chino_Valley_Unified_36_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3667686",
+    "name": "Colton Joint Unified",
+    "percents": {
+      "7": 27,
+      "9": null,
+      "11": null,
+      "NT": null
+    },
+    "year": 2015,
+    "file": "Colton_Joint_Unified_1415_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3667710",
+    "name": "Fontana Unified",
+    "percents": {
+      "7": 13,
+      "9": null,
+      "11": 44,
+      "NT": 59
+    },
+    "year": 2019,
+    "file": "Fontana_Unified_1819_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3667777",
+    "name": "Morongo Unified",
+    "percents": {
+      "7": 14,
+      "9": 33,
+      "10": 35,
+      "11": 37,
+      "12": 44,
+      "NT": 38
+    },
+    "year": 2023,
+    "file": "Morongo_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3667801",
+    "name": "Needles Unified",
+    "percents": {
+      "7": 47
+    },
+    "year": 2010,
+    "file": "needles_sec0910_main.pdf"
+  },
+  {
+    "code": "3667843",
+    "name": "Redlands Unified",
+    "percents": {
+      "7": 22,
+      "9": 41,
+      "10": 52,
+      "11": 63,
+      "12": 73
+    },
+    "year": 2010,
+    "file": "redlands_sec0910_main.pdf"
+  },
+  {
+    "code": "3667850",
+    "name": "Rialto Unified",
+    "percents": {
+      "7": 9,
+      "9": 21,
+      "10": 23,
+      "11": 27,
+      "12": 33,
+      "NT": 29
+    },
+    "year": 2023,
+    "file": "Rialto_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3667868",
+    "name": "Rim of the World Unified",
+    "percents": {
+      "7": 25,
+      "9": 38,
+      "10": 42,
+      "11": 47,
+      "12": 55,
+      "NT": null
+    },
+    "year": 2017,
+    "file": "Rim_of_the_World_Unified_1617_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3667876",
+    "name": "San Bernardino City Unified",
+    "percents": {
+      "7": null,
+      "9": null,
+      "11": null,
+      "NT": 30
+    },
+    "year": 2024,
+    "file": "San_Bernardino_City_Unified_36_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3667892",
+    "name": "Trona Joint Unified",
+    "percents": {
+      "7": 39,
+      "9": 10,
+      "11": null,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Trona_Joint_Unified_36_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3667934",
+    "name": "Victor Valley Union High",
+    "percents": {
+      "7": 10,
+      "9": 30,
+      "10": 36,
+      "11": 43,
+      "12": 51,
+      "NT": 48
+    },
+    "year": 2017,
+    "file": "Victor_Valley_Union_High_1617_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3667959",
+    "name": "Yucaipa-Calimesa Joint Unified",
+    "percents": {
+      "7": 11,
+      "9": 28,
+      "10": 32,
+      "11": 37,
+      "12": 44,
+      "NT": 50
+    },
+    "year": 2022,
+    "file": "Yucaipa-Calimesa_Joint_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3673858",
+    "name": "Baker Valley Unified",
+    "percents": {
+      "7": 15,
+      "9": 45
+    },
+    "year": 2012,
+    "file": "baker_valley_sec1112_main.pdf"
+  },
+  {
+    "code": "3673890",
+    "name": "Silver Valley Unified",
+    "percents": {
+      "7": 38,
+      "9": 62,
+      "10": 67,
+      "11": 71,
+      "12": 81
+    },
+    "year": 2010,
+    "file": "silver_valley_sec0910_main.pdf"
+  },
+  {
+    "code": "3673957",
+    "name": "Snowline Joint Unified",
+    "percents": {
+      "7": 16,
+      "9": 21,
+      "10": 25,
+      "11": 31,
+      "12": 37,
+      "NT": 44
+    },
+    "year": 2023,
+    "file": "Snowline_Joint_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3675044",
+    "name": "Hesperia Unified",
+    "percents": {
+      "7": 35,
+      "9": 56,
+      "10": 62,
+      "11": 67,
+      "12": 77,
+      "NT": 86
+    },
+    "year": 2010,
+    "file": "hesperia_sec0910_main.pdf"
+  },
+  {
+    "code": "3675069",
+    "name": "Upland Unified",
+    "percents": {
+      "7": 8,
+      "9": 17,
+      "10": 22,
+      "11": 28,
+      "12": 34,
+      "NT": 38
+    },
+    "year": 2024,
+    "file": "Upland_Unified_36_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3675077",
+    "name": "Apple Valley Unified",
+    "percents": {
+      "7": 42,
+      "9": 57,
+      "10": 62,
+      "11": 66,
+      "12": 76
+    },
+    "year": 2010,
+    "file": "apple_valley_sec0910_main.pdf"
+  },
+  {
+    "code": "3767983",
+    "name": "Borrego Springs Unified",
+    "percents": {
+      "7": 39,
+      "9": null,
+      "11": null,
+      "NT": null
+    },
+    "year": 2017,
+    "file": "Borrego_Springs_Unified_1617_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3768031",
+    "name": "Coronado Unified",
+    "percents": {
+      "9": 16,
+      "10": 33,
+      "11": 38,
+      "12": 46
+    },
+    "year": 2023,
+    "file": "Coronado_Unified_2223_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "3768106",
+    "name": "Escondido Union High",
+    "percents": {
+      "7": null,
+      "9": 22,
+      "10": 24,
+      "11": 28,
+      "12": 34,
+      "NT": 39
+    },
+    "year": 2024,
+    "file": "Escondido_Union_High_37_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3768122",
+    "name": "Fallbrook Union High",
+    "percents": {
+      "7": null,
+      "9": 13,
+      "10": 17,
+      "11": 22,
+      "12": 27,
+      "NT": 37
+    },
+    "year": 2024,
+    "file": "Fallbrook_Union_High_37_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3768130",
+    "name": "Grossmont Union High",
+    "percents": {
+      "9": 22,
+      "10": 23,
+      "11": 25,
+      "12": 30
+    },
+    "year": 2024,
+    "file": "Grossmont_Union_High_37_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "3768171",
+    "name": "Julian Union High",
+    "percents": {
+      "7": null,
+      "9": 49,
+      "10": 53,
+      "11": 57,
+      "12": 66,
+      "NT": null
+    },
+    "year": 2015,
+    "file": "Julian_Union_High_1415_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3768171",
+    "name": "Julian Union High",
+    "percents": {},
+    "year": 2015
+  },
+  {
+    "code": "3768213",
+    "name": "Mountain Empire Unified",
+    "percents": {
+      "7": 18,
+      "9": 20,
+      "10": 24,
+      "11": 29,
+      "12": 35,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Mountain_Empire_Unified_37_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "3768296",
+    "name": "Poway Unified",
+    "percents": {
+      "7": 8,
+      "9": 17,
+      "10": 23,
+      "11": 30,
+      "12": 36,
+      "NT": 56
+    },
+    "year": 2023,
+    "file": "Poway_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3768304",
+    "name": "Ramona City Unified",
+    "percents": {
+      "7": 14,
+      "9": 17,
+      "10": 26,
+      "11": 38,
+      "12": 46,
+      "NT": null
+    },
+    "year": 2021,
+    "file": "Ramona_City_Unified_2021_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3768338",
+    "name": "San Diego Unified",
+    "percents": {
+      "7": 11,
+      "9": 21,
+      "10": 25,
+      "11": 31,
+      "12": 37,
+      "NT": 43
+    },
+    "year": 2024,
+    "file": "San_Diego_Unified_37_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3768346",
+    "name": "San Dieguito Union High",
+    "percents": {
+      "9": 18,
+      "10": 25,
+      "11": 36,
+      "12": 40
+    },
+    "year": 2024,
+    "file": "San_Dieguito_Union_High_37_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "3768411",
+    "name": "Sweetwater Union High",
+    "percents": {
+      "7": 10,
+      "9": 17,
+      "10": 24,
+      "11": 32,
+      "12": 39,
+      "NT": 42
+    },
+    "year": 2024,
+    "file": "Sweetwater_Union_High_37_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "3768452",
+    "name": "Vista Unified",
+    "percents": {
+      "7": 13,
+      "9": 19,
+      "10": 24,
+      "11": 30,
+      "12": 36,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Vista_Unified_37_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0961903",
+    "name": "Lake Tahoe Unified",
+    "percents": {
+      "7": 12,
+      "9": null,
+      "11": null,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Lake_Tahoe_Unified_09_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0973783",
+    "name": "Black Oak Mine Unified",
+    "percents": {
+      "9": 36,
+      "10": 39,
+      "11": 46,
+      "12": 43
+    },
+    "year": 2024,
+    "file": "Black_Oak_Mine_Unified_09_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1062117",
+    "name": "Clovis Unified",
+    "percents": {
+      "7": 23,
+      "9": 43,
+      "10": 48,
+      "11": 53,
+      "12": 61,
+      "NT": 79
+    },
+    "year": 2011,
+    "file": "ClovisUSD_sec1011_main.pdf"
+  },
+  {
+    "code": "1062125",
+    "name": "Coalinga-Huron Unified",
+    "percents": {
+      "7": 5,
+      "9": 28,
+      "11": null,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Coalinga-Huron_Unified_10_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "1062158",
+    "name": "Fowler Unified",
+    "percents": {
+      "7": 18,
+      "9": 18,
+      "10": 19,
+      "11": 21,
+      "12": 26,
+      "NT": 40
+    },
+    "year": 2022,
+    "file": "Fowler_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1062166",
+    "name": "Fresno Unified",
+    "percents": {
+      "7": 31,
+      "9": 54,
+      "10": 58,
+      "11": 61,
+      "12": 70,
+      "NT": 47
+    },
+    "year": 2010,
+    "file": "FresnoUnified_sec0910_main.pdf"
+  },
+  {
+    "code": "1062257",
+    "name": "Kingsburg Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 46,
+      "10": 55,
+      "11": 64,
+      "12": 74,
+      "NT": null
+    },
+    "year": 2015,
+    "file": "Kingsburg_Joint_Union_High_1415_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1062265",
+    "name": "Kings Canyon Joint Unified",
+    "percents": {
+      "9": 51,
+      "10": 57,
+      "11": 53,
+      "12": 58
+    },
+    "year": 2014,
+    "file": "Kings_Canyon_Joint_Unified_1314_CHKS.pdf"
+  },
+  {
+    "code": "1062281",
+    "name": "Laton Joint Unified",
+    "percents": {
+      "7": 13,
+      "9": 47,
+      "10": 36,
+      "11": 22,
+      "12": 25,
+      "NT": null
+    },
+    "year": 2021,
+    "file": "Laton_Joint_Unified_2021_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1062364",
+    "name": "Parlier Unified",
+    "percents": {
+      "7": 6,
+      "9": 29,
+      "10": 33,
+      "11": 37,
+      "12": 44,
+      "NT": null
+    },
+    "year": 2021,
+    "file": "Parlier_Unified_2021_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "1062414",
+    "name": "Sanger Unified",
+    "percents": {
+      "7": 14,
+      "9": 33,
+      "10": 39,
+      "11": 46,
+      "12": 54,
+      "NT": 59
+    },
+    "year": 2019,
+    "file": "Sanger_Unified_1819_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1062430",
+    "name": "Selma Unified",
+    "percents": {
+      "7": 17,
+      "9": null,
+      "11": 40,
+      "NT": null
+    },
+    "year": 2022,
+    "file": "Selma_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1073809",
+    "name": "Firebaugh-Las Deltas Unified",
+    "percents": {
+      "7": 16,
+      "9": 20,
+      "10": 19,
+      "11": 19,
+      "12": 24,
+      "NT": 29
+    },
+    "year": 2024,
+    "file": "Firebaugh-Las_Deltas_Unified_10_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1073965",
+    "name": "Central Unified",
+    "percents": {
+      "7": 14,
+      "9": 35,
+      "10": 37,
+      "11": 40,
+      "12": 47,
+      "NT": null
+    },
+    "year": 2020,
+    "file": "Central_Unified_1920_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1073999",
+    "name": "Kerman Unified",
+    "percents": {
+      "9": 18,
+      "10": 28,
+      "11": 31,
+      "12": 29
+    },
+    "year": 2022,
+    "file": "Kerman_Unified_2122_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1075127",
+    "name": "Mendota Unified",
+    "percents": {
+      "7": 12,
+      "9": 24,
+      "10": 24,
+      "11": 24,
+      "12": 29,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Mendota_Unified_10_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1075234",
+    "name": "Golden Plains Unified",
+    "percents": {
+      "7": 12,
+      "9": 19,
+      "10": 14,
+      "11": 10,
+      "12": 13,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Golden_Plains_Unified_10_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1075275",
+    "name": "Sierra Unified",
+    "percents": {
+      "7": 16,
+      "9": 39,
+      "10": 28,
+      "11": 15,
+      "12": 18,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Sierra_Unified_10_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1075408",
+    "name": "Riverdale Joint Unified",
+    "percents": {
+      "9": 26,
+      "10": 39,
+      "11": 26,
+      "12": 31
+    },
+    "year": 2024,
+    "file": "Riverdale_Joint_Unified_10_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1075598",
+    "name": "Caruthers Unified",
+    "percents": {
+      "7": 12,
+      "9": 38,
+      "10": 40,
+      "11": 43,
+      "12": 50,
+      "NT": null
+    },
+    "year": 2020,
+    "file": "Caruthers_Unified_1920_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1076778",
+    "name": "Washington Unified",
+    "percents": {
+      "7": 12,
+      "9": 29,
+      "10": 34,
+      "11": 40,
+      "12": 47,
+      "NT": 36
+    },
+    "year": 2023,
+    "file": "Washington_Unified_57_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1162646",
+    "name": "Princeton Joint Unified",
+    "percents": {
+      "7": null,
+      "9": null,
+      "11": null,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Princeton_Joint_Unified_11_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1162653",
+    "name": "Stony Creek Joint Unified",
+    "percents": {
+      "All": 22
+    },
+    "year": 2024,
+    "file": "Stony_Creek_Joint_Unified_11_2324_Sec_CHKS_All.pdf"
+  },
+  {
+    "code": "1162661",
+    "name": "Willows Unified",
+    "percents": {
+      "9": 38,
+      "10": 35,
+      "11": 31,
+      "12": 25
+    },
+    "year": 2024,
+    "file": "Willows_Unified_11_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1175481",
+    "name": "Orland Joint Unified",
+    "percents": {
+      "7": 16,
+      "9": 29,
+      "10": 30,
+      "11": 31,
+      "12": 37,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Orland_Joint_Unified_11_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1176562",
+    "name": "Hamilton Unified",
+    "percents": {
+      "7": 5,
+      "9": 13,
+      "10": 22,
+      "11": 34,
+      "12": 41,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Hamilton_Unified_11_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1262687",
+    "name": "Northern Humboldt Union High",
+    "percents": {
+      "9": 38,
+      "10": 50,
+      "11": 47,
+      "12": 55
+    },
+    "year": 2024,
+    "file": "Northern_Humboldt_Union_High_12_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1262810",
+    "name": "Fortuna Union High",
+    "percents": {
+      "9": 24,
+      "10": 29,
+      "11": 28,
+      "12": 34
+    },
+    "year": 2024,
+    "file": "Fortuna_Union_High_12_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "1262901",
+    "name": "Klamath-Trinity Joint Unified",
+    "percents": {
+      "9": 32,
+      "10": 40,
+      "11": 52,
+      "12": 44
+    },
+    "year": 2024,
+    "file": "Klamath-Trinity_Joint_Unified_12_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1263040",
+    "name": "Southern Humboldt Joint Unified",
+    "percents": {
+      "7": 28,
+      "9": 31,
+      "10": 37,
+      "11": 43,
+      "12": 51,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Southern_Humboldt_Joint_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1275374",
+    "name": "Ferndale Unified",
+    "percents": {
+      "9": 34,
+      "10": 43,
+      "11": 53,
+      "12": 43
+    },
+    "year": 2024,
+    "file": "Ferndale_Unified_12_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1275382",
+    "name": "Mattole Unified",
+    "percents": {
+      "All": 8
+    },
+    "year": 2018,
+    "file": "Mattole_Unified_1718_Sec_CHKS_HS_All.pdf"
+  },
+  {
+    "code": "1275515",
+    "name": "Eureka City Schools",
+    "percents": {
+      "7": 19,
+      "9": 30,
+      "10": 35,
+      "11": 40,
+      "12": 47,
+      "NT": 81
+    },
+    "year": 2024,
+    "file": "Eureka_City_Schools_12_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "1363081",
+    "name": "Brawley Union High",
+    "percents": {
+      "7": null,
+      "9": 30,
+      "10": 35,
+      "11": 40,
+      "12": 47,
+      "NT": 47
+    },
+    "year": 2023,
+    "file": "Brawley_Union_High_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1363099",
+    "name": "Calexico Unified",
+    "percents": {
+      "7": 14,
+      "9": 22,
+      "10": 25,
+      "11": 29,
+      "12": 35,
+      "NT": 51
+    },
+    "year": 2024,
+    "file": "Calexico_Unified_13_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1363107",
+    "name": "Calipatria Unified",
+    "percents": {
+      "7": 13,
+      "9": 32,
+      "10": 31,
+      "11": 31,
+      "12": 37,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Calipatria_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1363115",
+    "name": "Central Union High",
+    "percents": {
+      "7": null,
+      "9": 23,
+      "10": 30,
+      "11": 38,
+      "12": 45,
+      "NT": 45
+    },
+    "year": 2023,
+    "file": "Central_Union_High_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1363149",
+    "name": "Holtville Unified",
+    "percents": {
+      "7": 14,
+      "9": 28,
+      "10": 33,
+      "11": 40,
+      "12": 47,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Holtville_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1363164",
+    "name": "Imperial Unified",
+    "percents": {
+      "7": 12,
+      "9": 35,
+      "10": 38,
+      "11": 41,
+      "12": 48,
+      "NT": 58
+    },
+    "year": 2023,
+    "file": "Imperial_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1363214",
+    "name": "San Pasqual Valley Unified",
+    "percents": {
+      "9": 14,
+      "10": 23,
+      "11": 27,
+      "12": 33
+    },
+    "year": 2023,
+    "file": "San_Pasqual_Valley_Unified_2223_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1463248",
+    "name": "Big Pine Unified",
+    "percents": {
+      "7": 0,
+      "9": null,
+      "11": null,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Big_Pine_Unified_14_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1463289",
+    "name": "Lone Pine Unified",
+    "percents": {
+      "7": 30,
+      "9": 8,
+      "10": 18,
+      "11": 30,
+      "12": 37,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Lone_Pine_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3066449",
+    "name": "Brea-Olinda Unified",
+    "percents": {
+      "7": 7,
+      "9": 15,
+      "10": 18,
+      "11": 22,
+      "12": 27,
+      "NT": 41
+    },
+    "year": 2024,
+    "file": "Brea-Olinda_Unified_30_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3066464",
+    "name": "Capistrano Unified",
+    "percents": {
+      "7": 8,
+      "9": 17,
+      "10": 25,
+      "11": 36,
+      "12": 43,
+      "NT": 50
+    },
+    "year": 2024,
+    "file": "Capistrano_Unified_30_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3066514",
+    "name": "Fullerton Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 18,
+      "10": 22,
+      "11": 27,
+      "12": 33,
+      "NT": 50
+    },
+    "year": 2020,
+    "file": "Fullerton_Joint_Union_High_1920_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3066522",
+    "name": "Garden Grove Unified",
+    "percents": {
+      "7": 11,
+      "9": 18,
+      "10": 21,
+      "11": 26,
+      "12": 32,
+      "NT": 36
+    },
+    "year": 2023,
+    "file": "Garden_Grove_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3066548",
+    "name": "Huntington Beach Union High",
+    "percents": {
+      "7": null,
+      "9": 20,
+      "10": 24,
+      "11": 29,
+      "12": 35,
+      "NT": 49
+    },
+    "year": 2024,
+    "file": "Huntington_Beach_Union_High_30_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3066555",
+    "name": "Laguna Beach Unified",
+    "percents": {
+      "7": 11,
+      "9": 24,
+      "10": 32,
+      "11": 41,
+      "12": 49,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Laguna_Beach_Unified_30_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3066597",
+    "name": "Newport-Mesa Unified",
+    "percents": {
+      "7": 12,
+      "9": 24,
+      "10": 27,
+      "11": 32,
+      "12": 38,
+      "NT": 50
+    },
+    "year": 2024,
+    "file": "Newport-Mesa_Unified_30_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "3066621",
+    "name": "Orange Unified",
+    "percents": {
+      "7": 18,
+      "9": 30,
+      "10": 40,
+      "11": 52,
+      "12": 61,
+      "NT": 74
+    },
+    "year": 2014,
+    "file": "Orange_Unified_1314_CHKS.pdf"
+  },
+  {
+    "code": "3066647",
+    "name": "Placentia-Yorba Linda Unified",
+    "percents": {
+      "7": 10,
+      "9": 28,
+      "10": 36,
+      "11": 45,
+      "12": 53,
+      "NT": 83
+    },
+    "year": 2016,
+    "file": "Placentia-Yorba_Linda_Unified_1516_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3066670",
+    "name": "Santa Ana Unified",
+    "percents": {
+      "7": 10,
+      "9": 13,
+      "10": 15,
+      "11": 18,
+      "12": 23,
+      "NT": 37
+    },
+    "year": 2023,
+    "file": "Santa_Ana_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3073635",
+    "name": "Saddleback Valley Unified",
+    "percents": {
+      "7": 9,
+      "9": 16,
+      "10": 20,
+      "11": 25,
+      "12": 31,
+      "NT": 35
+    },
+    "year": 2024,
+    "file": "Saddleback_Valley_Unified_30_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3073643",
+    "name": "Tustin Unified",
+    "percents": {
+      "7": 8,
+      "9": 16,
+      "10": 20,
+      "11": 26,
+      "12": 32,
+      "NT": 44
+    },
+    "year": 2023,
+    "file": "Tustin_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3073650",
+    "name": "Irvine Unified",
+    "percents": {
+      "7": 7,
+      "9": 12,
+      "10": 14,
+      "11": 17,
+      "12": 22,
+      "NT": 37
+    },
+    "year": 2024,
+    "file": "Irvine_Unified_30_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3073924",
+    "name": "Los Alamitos Unified",
+    "percents": {
+      "7": 9,
+      "9": 18,
+      "10": 22,
+      "11": 28,
+      "12": 34,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Los_Alamitos_Unified_30_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3166894",
+    "name": "Placer Union High",
+    "percents": {
+      "7": null,
+      "9": 21,
+      "10": 27,
+      "11": 34,
+      "12": 41,
+      "NT": 67
+    },
+    "year": 2024,
+    "file": "Placer_Union_High_31_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3166928",
+    "name": "Roseville Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 19,
+      "10": 24,
+      "11": 30,
+      "12": 36,
+      "NT": 44
+    },
+    "year": 2023,
+    "file": "Roseville_Joint_Union_High_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3166944",
+    "name": "Tahoe-Truckee Unified",
+    "percents": {
+      "7": 19,
+      "9": 38,
+      "10": 49,
+      "11": 62,
+      "12": 72,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Tahoe-Truckee_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3166951",
+    "name": "Western Placer Unified",
+    "percents": {
+      "7": 9,
+      "9": 25,
+      "10": 28,
+      "11": 32,
+      "12": 38,
+      "NT": 44
+    },
+    "year": 2024,
+    "file": "Western_Placer_Unified_31_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3175085",
+    "name": "Rocklin Unified",
+    "percents": {
+      "7": 10,
+      "9": 20,
+      "10": 26,
+      "11": 34,
+      "12": 41,
+      "NT": 60
+    },
+    "year": 2024,
+    "file": "Rocklin_Unified_31_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3266969",
+    "name": "Plumas Unified",
+    "percents": {
+      "7": 21,
+      "9": 34,
+      "10": 42,
+      "11": 51,
+      "12": 60,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Plumas_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3366977",
+    "name": "Alvord Unified",
+    "percents": {
+      "7": 10,
+      "9": 22,
+      "10": 22,
+      "11": 23,
+      "12": 28,
+      "NT": 31
+    },
+    "year": 2023,
+    "file": "Alvord_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3366985",
+    "name": "Banning Unified",
+    "percents": {
+      "7": 15,
+      "9": 26,
+      "10": 26,
+      "11": 26,
+      "12": 31,
+      "NT": 19
+    },
+    "year": 2023,
+    "file": "Banning_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3366993",
+    "name": "Beaumont Unified",
+    "percents": {
+      "7": 12,
+      "9": 17,
+      "10": 17,
+      "11": 19,
+      "12": 24,
+      "NT": 26
+    },
+    "year": 2024,
+    "file": "Beaumont_Unified_33_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3367033",
+    "name": "Corona-Norco Unified",
+    "percents": {
+      "7": 9,
+      "9": 18,
+      "10": 23,
+      "11": 29,
+      "12": 35,
+      "NT": 45
+    },
+    "year": 2024,
+    "file": "Corona-Norco_Unified_33_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3367058",
+    "name": "Desert Sands Unified",
+    "percents": {
+      "7": 14,
+      "9": 17,
+      "10": 20,
+      "11": 24,
+      "12": 30,
+      "NT": 28
+    },
+    "year": 2024,
+    "file": "Desert_Sands_Unified_33_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "3367082",
+    "name": "Hemet Unified",
+    "percents": {
+      "7": 8,
+      "9": 14,
+      "10": 15,
+      "11": 18,
+      "12": 23,
+      "NT": 36
+    },
+    "year": 2024,
+    "file": "Hemet_Unified_33_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3367090",
+    "name": "Jurupa Unified",
+    "percents": {
+      "7": 12,
+      "9": 14,
+      "10": 16,
+      "11": 20,
+      "12": 25,
+      "NT": 33
+    },
+    "year": 2024,
+    "file": "Jurupa_Unified_33_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3367124",
+    "name": "Moreno Valley Unified",
+    "percents": {
+      "7": 11,
+      "9": 14,
+      "10": 14,
+      "11": 16,
+      "12": 20,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Moreno_Valley_Unified_33_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3367173",
+    "name": "Palm Springs Unified",
+    "percents": {
+      "7": 17,
+      "9": 34,
+      "10": 41,
+      "11": 48,
+      "12": 56,
+      "NT": null
+    },
+    "year": 2016,
+    "file": "Palm_Springs_Unified_1516_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3367181",
+    "name": "Palo Verde Unified",
+    "percents": {
+      "7": 4,
+      "9": 31,
+      "10": 35,
+      "11": 39,
+      "12": 46,
+      "NT": 61
+    },
+    "year": 2024,
+    "file": "Palo_Verde_Unified_33_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3367207",
+    "name": "Perris Union High",
+    "percents": {
+      "7": 10,
+      "9": 22,
+      "10": 25,
+      "11": 30,
+      "12": 36,
+      "NT": 33
+    },
+    "year": 2023,
+    "file": "Perris_Union_High_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3367215",
+    "name": "Riverside Unified",
+    "percents": {
+      "9": 18,
+      "10": 24,
+      "11": 26,
+      "12": 35
+    },
+    "year": 2022,
+    "file": "Riverside_Unified_2122_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "3367249",
+    "name": "San Jacinto Unified",
+    "percents": {},
+    "year": 2019,
+    "file": "San_Jacinto_Unified_1819_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3373676",
+    "name": "Coachella Valley Unified",
+    "percents": {
+      "7": 21,
+      "9": 42,
+      "10": 39,
+      "11": 36,
+      "12": 42,
+      "NT": 40
+    },
+    "year": 2019,
+    "file": "Coachella_Valley_Unified_1819_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3375176",
+    "name": "Lake Elsinore Unified",
+    "percents": {
+      "7": 15,
+      "9": 28,
+      "10": 32,
+      "11": 37,
+      "12": 44,
+      "NT": 43
+    },
+    "year": 2024,
+    "file": "Lake_Elsinore_Unified_33_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3375192",
+    "name": "Temecula Valley Unified",
+    "percents": {
+      "7": 10,
+      "9": 29,
+      "10": 39,
+      "11": 51,
+      "12": 60,
+      "NT": 72
+    },
+    "year": 2017,
+    "file": "Temecula_Valley_Unified_1617_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3375200",
+    "name": "Murrieta Valley Unified",
+    "percents": {
+      "7": 12,
+      "9": 28,
+      "10": 35,
+      "11": 43,
+      "12": 51,
+      "NT": null
+    },
+    "year": 2019,
+    "file": "Murrieta_Valley_Unified_1819_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3375242",
+    "name": "Val Verde Unified",
+    "percents": {
+      "7": 12,
+      "9": 23,
+      "10": 25,
+      "11": 27,
+      "12": 33,
+      "NT": 35
+    },
+    "year": 2022,
+    "file": "Val_Verde_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3467314",
+    "name": "Elk Grove Unified",
+    "percents": {
+      "7": 9,
+      "9": 18,
+      "10": 20,
+      "11": 24,
+      "12": 29,
+      "NT": 49
+    },
+    "year": 2024,
+    "file": "Elk_Grove_Unified_34_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3467330",
+    "name": "Folsom-Cordova Unified",
+    "percents": {
+      "7": 7,
+      "9": 16,
+      "10": 19,
+      "11": 24,
+      "12": 30,
+      "NT": 52
+    },
+    "year": 2024,
+    "file": "Folsom-Cordova_Unified_34_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3467355",
+    "name": "Galt Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 37,
+      "10": 46,
+      "11": 56,
+      "12": 65,
+      "NT": null
+    },
+    "year": 2016,
+    "file": "Galt_Joint_Union_High_1516_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4369583",
+    "name": "Morgan Hill Unified",
+    "percents": {
+      "7": 4,
+      "9": 14,
+      "10": 20,
+      "11": 28,
+      "12": 34,
+      "NT": 26
+    },
+    "year": 2023,
+    "file": "Morgan_Hill_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4369609",
+    "name": "Mountain View-Los Altos Union High",
+    "percents": {
+      "9": 14,
+      "10": 20,
+      "11": 33,
+      "12": 39
+    },
+    "year": 2024,
+    "file": "Mountain_View-Los_Altos_Union_High_43_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "4369641",
+    "name": "Palo Alto Unified",
+    "percents": {
+      "7": 7,
+      "9": 15,
+      "10": 20,
+      "11": 26,
+      "12": 32,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Palo_Alto_Unified_43_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "4369666",
+    "name": "San Jose Unified",
+    "percents": {
+      "7": 26,
+      "9": 47,
+      "10": 54,
+      "11": 62,
+      "12": 72
+    },
+    "year": 2010,
+    "file": "San_Jose_sec0910_main.pdf"
+  },
+  {
+    "code": "4369674",
+    "name": "Santa Clara Unified",
+    "percents": {
+      "7": 7,
+      "9": 18,
+      "10": 21,
+      "11": 26,
+      "12": 32,
+      "NT": 46
+    },
+    "year": 2024,
+    "file": "Santa_Clara_Unified_43_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4373387",
+    "name": "Milpitas Unified",
+    "percents": {
+      "7": 7,
+      "9": 15,
+      "10": 19,
+      "11": 25,
+      "12": 31,
+      "NT": 59
+    },
+    "year": 2024,
+    "file": "Milpitas_Unified_43_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4469799",
+    "name": "Pajaro Valley Unified",
+    "percents": {
+      "7": 13,
+      "9": 21,
+      "10": 23,
+      "11": 26,
+      "12": 32,
+      "NT": 47
+    },
+    "year": 2023,
+    "file": "Pajaro_Valley_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4469807",
+    "name": "San Lorenzo Valley Unified",
+    "percents": {
+      "7": 13,
+      "9": 34,
+      "10": 42,
+      "11": 52,
+      "12": 61,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "San_Lorenzo_Valley_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4469823",
+    "name": "Santa Cruz City High",
+    "percents": {
+      "7": 11,
+      "9": 26,
+      "10": 33,
+      "11": 42,
+      "12": 50,
+      "NT": 52
+    },
+    "year": 2023,
+    "file": "Santa_Cruz_City_High_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4475432",
+    "name": "Scotts Valley Unified",
+    "percents": {
+      "7": 20,
+      "9": 26,
+      "10": 42,
+      "11": 60,
+      "12": 71,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Scotts_Valley_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4569856",
+    "name": "Anderson Union High",
+    "percents": {
+      "7": null,
+      "9": 29,
+      "10": 33,
+      "11": 37,
+      "12": 44,
+      "NT": 50
+    },
+    "year": 2024,
+    "file": "Anderson_Union_High_45_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4569989",
+    "name": "Fall River Joint Unified",
+    "percents": {
+      "7": 13,
+      "9": 26,
+      "10": 38,
+      "11": 52,
+      "12": 61,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Fall_River_Joint_Unified_45_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4570136",
+    "name": "Shasta Union High",
+    "percents": {
+      "7": null,
+      "9": 32,
+      "10": 37,
+      "11": 43,
+      "12": 51,
+      "NT": 63
+    },
+    "year": 2024,
+    "file": "Shasta_Union_High_45_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4575267",
+    "name": "Gateway Unified",
+    "percents": {
+      "7": 26,
+      "9": 51,
+      "11": null,
+      "NT": 85
+    },
+    "year": 2014,
+    "file": "Gateway_Unified_1314_CHKS.pdf"
+  },
+  {
+    "code": "4670177",
+    "name": "Sierra-Plumas Joint Unified",
+    "percents": {
+      "7": 20,
+      "9": 39,
+      "10": 25,
+      "11": 10,
+      "12": 12,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Sierra-Plumas_Joint_Unified_46_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4770250",
+    "name": "Dunsmuir Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 27,
+      "10": 23,
+      "11": 18,
+      "12": 22,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Dunsmuir_Joint_Union_High_47_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "4770466",
+    "name": "Siskiyou Union High",
+    "percents": {
+      "9": 28,
+      "10": 39,
+      "11": 38,
+      "12": 43
+    },
+    "year": 2024,
+    "file": "Siskiyou_Union_High_47_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "4770516",
+    "name": "Yreka Union High",
+    "percents": {
+      "7": null,
+      "9": 44,
+      "10": 45,
+      "11": 45,
+      "12": 52,
+      "NT": 71
+    },
+    "year": 2024,
+    "file": "Yreka_Union_High_47_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "4773684",
+    "name": "Butte Valley Unified",
+    "percents": {
+      "9": 53,
+      "10": 17,
+      "11": 33,
+      "12": 38
+    },
+    "year": 2024,
+    "file": "Butte_Valley_Unified_47_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "4776455",
+    "name": "Scott Valley Unified",
+    "percents": {
+      "7": 15,
+      "9": 30,
+      "10": 35,
+      "11": 42,
+      "12": 50,
+      "NT": 77
+    },
+    "year": 2024,
+    "file": "Scott_Valley_Unified_47_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "4870524",
+    "name": "Benicia Unified",
+    "percents": {
+      "7": 10,
+      "9": 22,
+      "10": 28,
+      "11": 36,
+      "12": 43,
+      "NT": 33
+    },
+    "year": 2024,
+    "file": "Benicia_Unified_48_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4870532",
+    "name": "Dixon Unified",
+    "percents": {
+      "9": 42,
+      "10": 37,
+      "11": 41,
+      "12": 46
+    },
+    "year": 2024,
+    "file": "Dixon_Unified_48_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "4870540",
+    "name": "Fairfield-Suisun Unified",
+    "percents": {
+      "7": 13,
+      "9": 20,
+      "10": 25,
+      "11": 32,
+      "12": 39,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Fairfield-Suisun_Unified_48_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4870565",
+    "name": "Travis Unified",
+    "percents": {
+      "7": 11,
+      "9": 23,
+      "10": 31,
+      "11": 40,
+      "12": 48,
+      "NT": 44
+    },
+    "year": 2024,
+    "file": "Travis_Unified_48_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "4870573",
+    "name": "Vacaville Unified",
+    "percents": {
+      "7": 13,
+      "9": 28,
+      "10": 33,
+      "11": 39,
+      "12": 46,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Vacaville_Unified_48_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4870581",
+    "name": "Vallejo City Unified",
+    "percents": {
+      "7": 12,
+      "9": 25,
+      "10": 27,
+      "11": 30,
+      "12": 36,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Vallejo_City_Unified_48_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4970607",
+    "name": "West Sonoma County Union High",
+    "percents": {
+      "7": 15,
+      "9": 48,
+      "10": 59,
+      "11": 71,
+      "12": 82,
+      "NT": 9
+    },
+    "year": 2018,
+    "file": "West_Sonoma_County_Union_High_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4970656",
+    "name": "Cloverdale Unified",
+    "percents": {
+      "7": 12,
+      "9": null,
+      "11": 47,
+      "NT": null
+    },
+    "year": 2020,
+    "file": "Cloverdale_Unified_1920_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4970706",
+    "name": "Geyserville Unified",
+    "percents": {
+      "7": 19,
+      "9": 53,
+      "10": 60,
+      "11": 67,
+      "12": 77
+    },
+    "year": 2012,
+    "file": "geyserville_sec1112_main.pdf"
+  },
+  {
+    "code": "4970862",
+    "name": "Petaluma Joint Union High",
+    "percents": {
+      "7": 12,
+      "9": 29,
+      "10": 37,
+      "11": 46,
+      "12": 54,
+      "NT": 61
+    },
+    "year": 2022,
+    "file": "Petaluma_Joint_Union_High_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4970920",
+    "name": "Santa Rosa High",
+    "percents": {
+      "7": 17,
+      "9": 41,
+      "10": 48,
+      "11": 55,
+      "12": 64,
+      "NT": 6
+    },
+    "year": 2018,
+    "file": "Santa_Rosa_High_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4970953",
+    "name": "Sonoma Valley Unified",
+    "percents": {
+      "7": 18,
+      "9": 52,
+      "10": 56,
+      "11": 59,
+      "12": 68,
+      "NT": 7
+    },
+    "year": 2018,
+    "file": "Sonoma_Valley_Unified_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4973882",
+    "name": "Cotati-Rohnert Park Unified",
+    "percents": {
+      "7": 19,
+      "9": 45,
+      "10": 52,
+      "11": 60,
+      "12": 69,
+      "NT": 8
+    },
+    "year": 2018,
+    "file": "Cotati-Rohnert_Park_Unified_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4975358",
+    "name": "Windsor Unified",
+    "percents": {
+      "7": 10,
+      "9": 22,
+      "10": 34,
+      "11": 49,
+      "12": 58,
+      "NT": null
+    },
+    "year": 2022,
+    "file": "Windsor_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4975390",
+    "name": "Healdsburg Unified",
+    "percents": {
+      "7": 24,
+      "9": 33,
+      "10": 49,
+      "11": 68,
+      "12": 79,
+      "NT": null
+    },
+    "year": 2020,
+    "file": "Healdsburg_Unified_1920_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5071043",
+    "name": "Ceres Unified",
+    "percents": {
+      "7": 13,
+      "9": 16,
+      "10": 20,
+      "11": 25,
+      "12": 31,
+      "NT": 26
+    },
+    "year": 2024,
+    "file": "Ceres_Unified_50_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5071068",
+    "name": "Denair Unified",
+    "percents": {
+      "7": 16,
+      "9": 16,
+      "10": 29,
+      "11": 45,
+      "12": 54,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Denair_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5071175",
+    "name": "Modesto City High",
+    "percents": {
+      "9": 26,
+      "10": 29,
+      "11": 31,
+      "12": 37
+    },
+    "year": 2023,
+    "file": "Modesto_City_High_2223_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "5071217",
+    "name": "Patterson Joint Unified",
+    "percents": {
+      "9": 15,
+      "10": 23,
+      "11": 18,
+      "12": 28
+    },
+    "year": 2024,
+    "file": "Patterson_Joint_Unified_50_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "5073601",
+    "name": "Newman-Crows Landing Unified",
+    "percents": {
+      "9": 22,
+      "10": 18,
+      "11": 60,
+      "12": 71
+    },
+    "year": 2024,
+    "file": "Newman-Crows_Landing_Unified_50_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "5075549",
+    "name": "Hughson Unified",
+    "percents": {
+      "7": 13,
+      "9": 24,
+      "10": 24,
+      "11": 25,
+      "12": 30,
+      "NT": 29
+    },
+    "year": 2024,
+    "file": "Hughson_Unified_50_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5075556",
+    "name": "Riverbank Unified",
+    "percents": {
+      "7": 16,
+      "9": 38,
+      "10": 45,
+      "11": 53,
+      "12": 62,
+      "NT": 38
+    },
+    "year": 2023,
+    "file": "Riverbank_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2075606",
+    "name": "Chawanakee Unified",
+    "percents": {
+      "7": 15,
+      "9": 37,
+      "10": 46,
+      "11": 57,
+      "12": 66,
+      "NT": null
+    },
+    "year": 2015,
+    "file": "Chawanakee_Unified_1415_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2076414",
+    "name": "Yosemite Unified",
+    "percents": {
+      "7": null,
+      "9": null,
+      "11": 8,
+      "NT": null
+    },
+    "year": 2018,
+    "file": "Yosemite_Unified_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2165417",
+    "name": "Novato Unified",
+    "percents": {
+      "7": 14,
+      "9": 34,
+      "10": 40,
+      "11": 46,
+      "12": 54,
+      "NT": 58
+    },
+    "year": 2024,
+    "file": "Novato_Unified_21_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2165466",
+    "name": "San Rafael City High",
+    "percents": {
+      "7": null,
+      "9": 25,
+      "10": 35,
+      "11": 47,
+      "12": 56,
+      "NT": 58
+    },
+    "year": 2023,
+    "file": "San_Rafael_City_High_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2165482",
+    "name": "Tamalpais Union High",
+    "percents": {
+      "9": 47,
+      "10": 51,
+      "11": 63,
+      "12": 76
+    },
+    "year": 2024,
+    "file": "Tamalpais_Union_High_21_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "2173361",
+    "name": "Shoreline Unified",
+    "percents": {
+      "7": 14,
+      "9": 25,
+      "10": 36,
+      "11": 48,
+      "12": 57,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Shoreline_Unified_21_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2265532",
+    "name": "Mariposa County Unified",
+    "percents": {
+      "7": 9,
+      "9": 41,
+      "10": 36,
+      "11": 29,
+      "12": 34,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Mariposa_County_Unified_22_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2365540",
+    "name": "Anderson Valley Unified",
+    "percents": {
+      "9": 39,
+      "10": 25,
+      "11": 15,
+      "12": 46
+    },
+    "year": 2024,
+    "file": "Anderson_Valley_Unified_23_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "2365565",
+    "name": "Fort Bragg Unified",
+    "percents": {
+      "7": 21,
+      "9": 45,
+      "10": 51,
+      "11": 57,
+      "12": 66,
+      "NT": 70
+    },
+    "year": 2024,
+    "file": "Fort_Bragg_Unified_23_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "2365581",
+    "name": "Mendocino Unified",
+    "percents": {
+      "7": 24,
+      "9": 55,
+      "10": 73,
+      "11": 92,
+      "12": 106,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Mendocino_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2365599",
+    "name": "Point Arena Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 47,
+      "10": 52,
+      "11": 56,
+      "12": 65,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Point_Arena_Joint_Union_High_23_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2365607",
+    "name": "Round Valley Unified",
+    "percents": {
+      "7": 39,
+      "9": 63,
+      "11": null,
+      "NT": null
+    },
+    "year": 2018,
+    "file": "Round_Valley_Unified_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2365615",
+    "name": "Ukiah Unified",
+    "percents": {
+      "7": 20,
+      "9": 37,
+      "10": 48,
+      "11": 61,
+      "12": 71,
+      "NT": 91
+    },
+    "year": 2023,
+    "file": "Ukiah_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2365623",
+    "name": "Willits Unified",
+    "percents": {
+      "7": 17,
+      "9": null,
+      "11": null,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Willits_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2373866",
+    "name": "Potter Valley Community Unified",
+    "percents": {
+      "7": 20,
+      "9": 41,
+      "10": 39,
+      "11": 36,
+      "12": 42,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Potter_Valley_Community_Unified_23_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2373916",
+    "name": "Laytonville Unified",
+    "percents": {
+      "9": 50,
+      "10": 78,
+      "11": 55,
+      "12": 65
+    },
+    "year": 2024,
+    "file": "Laytonville_Unified_23_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "2375218",
+    "name": "Leggett Valley Unified",
+    "percents": {
+      "All": 40
+    },
+    "year": 2024,
+    "file": "Leggett_Valley_Unified_23_2324_Sec_CHKS_All_I.pdf"
+  },
+  {
+    "code": "2465698",
+    "name": "Hilmar Unified",
+    "percents": {
+      "7": 20,
+      "9": 22,
+      "10": 31,
+      "11": 41,
+      "12": 49,
+      "NT": 25
+    },
+    "year": 2024,
+    "file": "Hilmar_Unified_24_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2465730",
+    "name": "Le Grand Union High",
+    "percents": {
+      "9": 11,
+      "10": 20,
+      "11": null,
+      "12": null
+    },
+    "year": 2022,
+    "file": "Le_Grand_Union_High_2122_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "2465755",
+    "name": "Los Banos Unified",
+    "percents": {
+      "7": 13,
+      "9": 23,
+      "10": 29,
+      "11": 36,
+      "12": 43,
+      "NT": 47
+    },
+    "year": 2024,
+    "file": "Los_Banos_Unified_24_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2465789",
+    "name": "Merced Union High",
+    "percents": {
+      "7": null,
+      "9": 25,
+      "10": 24,
+      "11": 24,
+      "12": 29,
+      "NT": 47
+    },
+    "year": 2024,
+    "file": "Merced_Union_High_24_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2473619",
+    "name": "Gustine Unified",
+    "percents": {
+      "7": 23,
+      "9": 36,
+      "10": 44,
+      "11": 53,
+      "12": 62,
+      "NT": 40
+    },
+    "year": 2019,
+    "file": "Gustine_Unified_1819_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2475317",
+    "name": "Dos Palos Oro Loma Joint Unified",
+    "percents": {
+      "7": 15,
+      "9": 35,
+      "10": 43,
+      "11": 52,
+      "12": 61,
+      "NT": 6
+    },
+    "year": 2018,
+    "file": "Dos_Palos_Oro_Loma_Joint_Unified_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2475366",
+    "name": "Delhi Unified",
+    "percents": {
+      "9": 30,
+      "10": 48,
+      "11": 48,
+      "12": 24
+    },
+    "year": 2020,
+    "file": "Delhi_Unified_1920_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "2565896",
+    "name": "Surprise Valley Joint Unified",
+    "percents": {
+      "All": 33
+    },
+    "year": 2022,
+    "file": "Surprise_Valley_Joint_Unified_2122_Sec_CHKS_All.pdf"
+  },
+  {
+    "code": "2573585",
+    "name": "Modoc Joint Unified",
+    "percents": {
+      "7": 22,
+      "9": 46,
+      "10": 49,
+      "11": 52,
+      "12": 60,
+      "NT": null
+    },
+    "year": 2022,
+    "file": "Modoc_Joint_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2573593",
+    "name": "Tulelake Basin Joint Unified",
+    "percents": {
+      "7": 28,
+      "9": 38,
+      "10": 44,
+      "11": 50,
+      "12": 58,
+      "NT": null
+    },
+    "year": 2022,
+    "file": "Tulelake_Basin_Joint_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2673668",
+    "name": "Eastern Sierra Unified",
+    "percents": {
+      "7": 0,
+      "9": 31,
+      "10": 35,
+      "11": 39,
+      "12": 46,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Eastern_Sierra_Unified_26_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2673692",
+    "name": "Mammoth Unified",
+    "percents": {
+      "7": 13,
+      "9": 41,
+      "10": 41,
+      "11": 41,
+      "12": 48,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Mammoth_Unified_26_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2765987",
+    "name": "Carmel Unified",
+    "percents": {
+      "7": 11,
+      "9": 35,
+      "10": 39,
+      "11": 44,
+      "12": 52,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Carmel_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2766068",
+    "name": "South Monterey County Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 24,
+      "10": 31,
+      "11": 39,
+      "12": 46,
+      "NT": 28
+    },
+    "year": 2024,
+    "file": "South_Monterey_County_Joint_Union_High_27_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "2766092",
+    "name": "Monterey Peninsula Unified",
+    "percents": {
+      "7": 14,
+      "9": 27,
+      "10": 38,
+      "11": 50,
+      "12": 59,
+      "NT": 73
+    },
+    "year": 2017,
+    "file": "Monterey_Peninsula_Unified_1617_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2766134",
+    "name": "Pacific Grove Unified",
+    "percents": {
+      "7": 11,
+      "9": 17,
+      "10": 22,
+      "11": 28,
+      "12": 34,
+      "NT": 38
+    },
+    "year": 2024,
+    "file": "Pacific_Grove_Unified_27_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2766159",
+    "name": "Salinas Union High",
+    "percents": {
+      "7": null,
+      "9": 19,
+      "10": 21,
+      "11": 24,
+      "12": 29,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Salinas_Union_High_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2773825",
+    "name": "North Monterey County Unified",
+    "percents": {
+      "7": 14,
+      "9": 19,
+      "10": 22,
+      "11": 27,
+      "12": 33,
+      "NT": 20
+    },
+    "year": 2024,
+    "file": "North_Monterey_County_Unified_27_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2775440",
+    "name": "Soledad Unified",
+    "percents": {
+      "7": 5,
+      "9": 18,
+      "10": 21,
+      "11": 26,
+      "12": 32,
+      "NT": 17
+    },
+    "year": 2023,
+    "file": "Soledad_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2775473",
+    "name": "Gonzales Unified",
+    "percents": {
+      "7": 16,
+      "9": 8,
+      "10": 18,
+      "11": 31,
+      "12": 38,
+      "NT": null
+    },
+    "year": 2022,
+    "file": "Gonzales_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2866241",
+    "name": "Calistoga Joint Unified",
+    "percents": {
+      "7": 13,
+      "9": 18,
+      "10": 20,
+      "11": 24,
+      "12": 29,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Calistoga_Joint_Unified_28_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2866266",
+    "name": "Napa Valley Unified",
+    "percents": {
+      "7": 12,
+      "9": 21,
+      "10": 25,
+      "11": 31,
+      "12": 37,
+      "NT": 52
+    },
+    "year": 2024,
+    "file": "Napa_Valley_Unified_28_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2866290",
+    "name": "Saint Helena Unified",
+    "percents": {
+      "7": 12,
+      "9": 43,
+      "10": 53,
+      "11": 63,
+      "12": 73,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Saint_Helena_Unified_28_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2966357",
+    "name": "Nevada Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 32,
+      "10": 40,
+      "11": 49,
+      "12": 58,
+      "NT": 89
+    },
+    "year": 2024,
+    "file": "Nevada_Joint_Union_High_29_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3066431",
+    "name": "Anaheim Union High",
+    "percents": {
+      "7": 10,
+      "9": 23,
+      "10": 27,
+      "11": 32,
+      "12": 38,
+      "NT": 48
+    },
+    "year": 2022,
+    "file": "Anaheim_Union_High_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964444",
+    "name": "Culver City Unified",
+    "percents": {
+      "7": 10,
+      "9": 16,
+      "10": 24,
+      "11": 35,
+      "12": 42,
+      "NT": 11
+    },
+    "year": 2024,
+    "file": "Culver_City_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964451",
+    "name": "Downey Unified",
+    "percents": {
+      "7": 13,
+      "9": 18,
+      "10": 19,
+      "11": 22,
+      "12": 27,
+      "NT": 59
+    },
+    "year": 2024,
+    "file": "Downey_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964469",
+    "name": "Duarte Unified",
+    "percents": {
+      "7": 13,
+      "9": 21,
+      "10": 24,
+      "11": 28,
+      "12": 34,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Duarte_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964519",
+    "name": "El Monte Union High",
+    "percents": {
+      "9": 25,
+      "10": 27,
+      "11": 34,
+      "12": 35
+    },
+    "year": 2019,
+    "file": "El_Monte_Union_High_1819_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1964527",
+    "name": "El Rancho Unified",
+    "percents": {
+      "7": 12,
+      "9": 25,
+      "10": 27,
+      "11": 29,
+      "12": 35,
+      "NT": 38
+    },
+    "year": 2024,
+    "file": "El_Rancho_Unified_19_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "1964535",
+    "name": "El Segundo Unified",
+    "percents": {
+      "7": 24,
+      "9": 54,
+      "10": 46,
+      "11": 36,
+      "12": 41,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "El_Segundo_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964568",
+    "name": "Glendale Unified",
+    "percents": {
+      "7": 7,
+      "9": 15,
+      "10": 16,
+      "11": 19,
+      "12": 24,
+      "NT": 34
+    },
+    "year": 2023,
+    "file": "Glendale_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964576",
+    "name": "Glendora Unified",
+    "percents": {
+      "7": 13,
+      "9": 20,
+      "10": 28,
+      "11": 37,
+      "12": 44,
+      "NT": 45
+    },
+    "year": 2024,
+    "file": "Glendora_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964634",
+    "name": "Inglewood Unified",
+    "percents": {
+      "7": 25,
+      "9": 38,
+      "10": 44,
+      "11": 50,
+      "12": 58,
+      "NT": 5
+    },
+    "year": 2018,
+    "file": "Inglewood_Unified_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964659",
+    "name": "La Canada Unified",
+    "percents": {
+      "7": 9,
+      "9": 21,
+      "10": 27,
+      "11": 35,
+      "12": 42,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "La_Canada_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964683",
+    "name": "Las Virgenes Unified",
+    "percents": {
+      "9": 20,
+      "10": 24,
+      "11": 31,
+      "12": 46
+    },
+    "year": 2024,
+    "file": "Las_Virgenes_Unified_19_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1964725",
+    "name": "Long Beach Unified",
+    "percents": {
+      "7": 33,
+      "9": 55,
+      "10": 60,
+      "11": 65,
+      "12": 75,
+      "NT": 86
+    },
+    "year": 2011,
+    "file": "long_beach_sec1011_main.pdf"
+  },
+  {
+    "code": "1964733",
+    "name": "Los Angeles Unified",
+    "percents": {
+      "7": 13,
+      "9": 20,
+      "10": 22,
+      "11": 25,
+      "12": 31,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Los_Angeles_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964774",
+    "name": "Lynwood Unified",
+    "percents": {
+      "7": 16,
+      "9": 35,
+      "10": 42,
+      "11": 49,
+      "12": 57,
+      "NT": null
+    },
+    "year": 2016,
+    "file": "Lynwood_Unified_1516_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964790",
+    "name": "Monrovia Unified",
+    "percents": {
+      "9": 25,
+      "10": 22,
+      "11": 28,
+      "12": 45
+    },
+    "year": 2024,
+    "file": "Monrovia_Unified_19_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "1964808",
+    "name": "Montebello Unified",
+    "percents": {
+      "7": 14,
+      "9": 35,
+      "10": 39,
+      "11": 43,
+      "12": 50,
+      "NT": 65
+    },
+    "year": 2019,
+    "file": "Montebello_Unified_1819_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964840",
+    "name": "Norwalk-La Mirada Unified",
+    "percents": {
+      "7": 11,
+      "9": 24,
+      "10": 29,
+      "11": 36,
+      "12": 43,
+      "NT": 67
+    },
+    "year": 2022,
+    "file": "Norwalk-La_Mirada_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964865",
+    "name": "Palos Verdes Peninsula Unified",
+    "percents": {
+      "7": 10,
+      "9": 20,
+      "10": 29,
+      "11": 41,
+      "12": 49,
+      "NT": 67
+    },
+    "year": 2024,
+    "file": "Palos_Verdes_Peninsula_Unified_19_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "1964873",
+    "name": "Paramount Unified",
+    "percents": {
+      "7": 17,
+      "9": 22,
+      "11": null,
+      "NT": 29
+    },
+    "year": 2024,
+    "file": "Paramount_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964881",
+    "name": "Pasadena Unified",
+    "percents": {
+      "7": 8,
+      "9": 18,
+      "10": 21,
+      "11": 26,
+      "12": 32,
+      "NT": 39
+    },
+    "year": 2024,
+    "file": "Pasadena_Unified_19_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "1964907",
+    "name": "Pomona Unified",
+    "percents": {
+      "7": 14,
+      "9": 19,
+      "10": 20,
+      "11": 22,
+      "12": 27,
+      "NT": 28
+    },
+    "year": 2024,
+    "file": "Pomona_Unified_19_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "1964964",
+    "name": "San Marino Unified",
+    "percents": {
+      "7": 13,
+      "9": 12,
+      "10": 19,
+      "11": 28,
+      "12": 34,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "San_Marino_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964980",
+    "name": "Santa Monica-Malibu Unified",
+    "percents": {
+      "7": 10,
+      "9": 26,
+      "10": 34,
+      "11": 43,
+      "12": 51,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Santa_Monica-Malibu_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1965029",
+    "name": "South Pasadena Unified",
+    "percents": {
+      "7": 11,
+      "9": 22,
+      "10": 29,
+      "11": 38,
+      "12": 45,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "South_Pasadena_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1965052",
+    "name": "Temple City Unified",
+    "percents": {
+      "7": 7,
+      "9": 14,
+      "10": 17,
+      "11": 22,
+      "12": 27,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Temple_City_Unified_19_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "1965060",
+    "name": "Torrance Unified",
+    "percents": {
+      "7": 7,
+      "9": 15,
+      "10": 18,
+      "11": 22,
+      "12": 27,
+      "NT": 49
+    },
+    "year": 2024,
+    "file": "Torrance_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1965094",
+    "name": "West Covina Unified",
+    "percents": {
+      "7": 31,
+      "9": 50,
+      "10": 54,
+      "11": 57,
+      "12": 66,
+      "NT": 88
+    },
+    "year": 2009,
+    "file": "west_covina_upperF08tech.pdf"
+  },
+  {
+    "code": "1965128",
+    "name": "Whittier Union High",
+    "percents": {
+      "9": 54,
+      "10": 60,
+      "11": 66,
+      "12": 76,
+      "NT": 68
+    },
+    "year": 2011,
+    "file": "whittier_UHSD_sec1011_main.pdf"
+  },
+  {
+    "code": "1965136",
+    "name": "William S. Hart Union High",
+    "percents": {
+      "7": 26,
+      "9": 49,
+      "10": 56,
+      "11": 63,
+      "12": 73,
+      "NT": 91
+    },
+    "year": 2009,
+    "file": "william_s_hart_upperS09tech.pdf"
+  },
+  {
+    "code": "1973437",
+    "name": "Compton Unified",
+    "percents": {
+      "7": 11,
+      "9": 16,
+      "10": 18,
+      "11": 22,
+      "12": 27,
+      "NT": 30
+    },
+    "year": 2024,
+    "file": "Compton_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1973445",
+    "name": "Hacienda la Puente Unified",
+    "percents": {
+      "7": 14,
+      "9": 21,
+      "10": 22,
+      "11": 25,
+      "12": 30,
+      "NT": 37
+    },
+    "year": 2024,
+    "file": "Hacienda_La_Puente_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1973452",
+    "name": "Rowland Unified",
+    "percents": {
+      "7": 13,
+      "9": 20,
+      "10": 22,
+      "11": 26,
+      "12": 32,
+      "NT": 39
+    },
+    "year": 2023,
+    "file": "Rowland_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1973460",
+    "name": "Walnut Valley Unified",
+    "percents": {
+      "7": 17,
+      "9": 32,
+      "10": 39,
+      "11": 48,
+      "12": 56,
+      "NT": 81
+    },
+    "year": 2010,
+    "file": "walnut_valley_sec0910_main.pdf"
+  },
+  {
+    "code": "1975291",
+    "name": "San Gabriel Unified",
+    "percents": {
+      "7": 10,
+      "9": 12,
+      "11": null,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "San_Gabriel_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1975309",
+    "name": "Acton-Agua Dulce Unified",
+    "percents": {
+      "7": 8,
+      "9": 10,
+      "10": 18,
+      "11": 28,
+      "12": 35,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Acton-Agua_Dulce_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1975333",
+    "name": "Manhattan Beach Unified",
+    "percents": {
+      "7": 6,
+      "9": 16,
+      "10": 23,
+      "11": 32,
+      "12": 39,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Manhattan_Beach_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1975341",
+    "name": "Redondo Beach Unified",
+    "percents": {
+      "7": 7,
+      "9": 16,
+      "10": 24,
+      "11": 35,
+      "12": 42,
+      "NT": 44
+    },
+    "year": 2023,
+    "file": "Redondo_Beach_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1975713",
+    "name": "Alhambra Unified",
+    "percents": {
+      "7": 9,
+      "9": 11,
+      "10": 13,
+      "11": 16,
+      "12": 21,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Alhambra_Unified_19_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "1976869",
+    "name": "Wiseburn Unified",
+    "percents": {
+      "7": 14,
+      "9": null,
+      "11": null,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Wiseburn_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2065201",
+    "name": "Chowchilla Union High",
+    "percents": {
+      "7": null,
+      "9": 37,
+      "10": 38,
+      "11": 38,
+      "12": 45,
+      "NT": 70
+    },
+    "year": 2019,
+    "file": "Chowchilla_Union_High_1819_Sec_CHKS.pdf"
+  },
+  {
+    "code": "2065243",
+    "name": "Madera Unified",
+    "percents": {
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": 46
+    },
+    "year": 2016,
+    "file": "Madera_Unified_1516_Sec_Grd9-12_CHKS.pdf"
+  },
+  {
+    "code": "2075580",
+    "name": "Golden Valley Unified",
+    "percents": {
+      "7": 23,
+      "9": 58,
+      "10": 59,
+      "11": 59,
+      "12": 68,
+      "NT": 84
+    },
+    "year": 2012,
+    "file": "GoldenVlyUSD_sec1112_main.pdf"
+  },
+  {
+    "code": "1463297",
+    "name": "Owens Valley Unified",
+    "percents": {
+      "All": 21
+    },
+    "year": 2024,
+    "file": "Owens_Valley_Unified_14_2324_Sec_CHKS_All.pdf"
+  },
+  {
+    "code": "1476687",
+    "name": "Bishop Unified",
+    "percents": {
+      "7": 15,
+      "9": 37,
+      "10": 48,
+      "11": 60,
+      "12": 70,
+      "NT": 70
+    },
+    "year": 2024,
+    "file": "Bishop_Unified_14_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1563412",
+    "name": "Delano Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 30,
+      "10": 37,
+      "11": 45,
+      "12": 53,
+      "NT": 85
+    },
+    "year": 2020,
+    "file": "Delano_Joint_Union_High_1920_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1563529",
+    "name": "Kern High",
+    "percents": {
+      "7": null,
+      "9": 23,
+      "10": 25,
+      "11": 27,
+      "12": 33,
+      "NT": 40
+    },
+    "year": 2024,
+    "file": "Kern_High_15_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1563628",
+    "name": "Maricopa Unified",
+    "percents": {
+      "7": 25,
+      "9": 31,
+      "10": 28,
+      "11": 25,
+      "12": 30,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Maricopa_Unified_15_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1563677",
+    "name": "Mojave Unified",
+    "percents": {
+      "7": 10,
+      "9": 18,
+      "10": 24,
+      "11": 32,
+      "12": 39,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Mojave_Unified_15_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1563685",
+    "name": "Muroc Joint Unified",
+    "percents": {
+      "7": 4,
+      "9": 45,
+      "10": 61,
+      "11": 79,
+      "12": 91,
+      "NT": null
+    },
+    "year": 2016,
+    "file": "Muroc_Joint_Unified_1516_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1563776",
+    "name": "Southern Kern Unified",
+    "percents": {
+      "7": 21,
+      "9": 28,
+      "10": 26,
+      "11": 25,
+      "12": 30,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Southern_Kern_Unified_15_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1563818",
+    "name": "Taft Union High",
+    "percents": {
+      "7": null,
+      "9": 23,
+      "10": 22,
+      "11": 22,
+      "12": 27,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Taft_Union_High_15_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1563826",
+    "name": "Tehachapi Unified",
+    "percents": {
+      "7": 10,
+      "9": 27,
+      "10": 33,
+      "11": 40,
+      "12": 47,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Tehachapi_Unified_15_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1563859",
+    "name": "Wasco Union High",
+    "percents": {
+      "7": null,
+      "9": 25,
+      "10": 30,
+      "11": 37,
+      "12": 44,
+      "NT": 40
+    },
+    "year": 2024,
+    "file": "Wasco_Union_High_15_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1573742",
+    "name": "Sierra Sands Unified",
+    "percents": {
+      "7": 13,
+      "9": 30,
+      "10": 29,
+      "11": 28,
+      "12": 33,
+      "NT": 35
+    },
+    "year": 2024,
+    "file": "Sierra_Sands_Unified_15_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1573908",
+    "name": "McFarland Unified",
+    "percents": {
+      "7": 12,
+      "9": 45,
+      "10": 46,
+      "11": 47,
+      "12": 54,
+      "NT": 70
+    },
+    "year": 2017,
+    "file": "McFarland_Unified_1617_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1575168",
+    "name": "El Tejon Unified",
+    "percents": {
+      "7": 10,
+      "9": 9,
+      "10": 20,
+      "11": 35,
+      "12": 43,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "El_Tejon_Unified_15_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1663891",
+    "name": "Corcoran Joint Unified",
+    "percents": {
+      "7": 7,
+      "9": 29,
+      "10": 31,
+      "11": 34,
+      "12": 40,
+      "NT": null
+    },
+    "year": 2020,
+    "file": "Corcoran_Joint_Unified_1920_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1663925",
+    "name": "Hanford Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 27,
+      "10": 37,
+      "11": 48,
+      "12": 57,
+      "NT": 60
+    },
+    "year": 2020,
+    "file": "Hanford_Joint_Union_High_1920_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1663982",
+    "name": "Lemoore Union High",
+    "percents": {
+      "9": 22,
+      "10": 24,
+      "11": 30,
+      "12": 32
+    },
+    "year": 2024,
+    "file": "Lemoore_Union_High_16_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1673932",
+    "name": "Reef-Sunset Unified",
+    "percents": {
+      "9": 27,
+      "10": 22,
+      "11": 19,
+      "12": 35
+    },
+    "year": 2024,
+    "file": "Reef-Sunset_Unified_16_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1764014",
+    "name": "Kelseyville Unified",
+    "percents": {
+      "7": 27,
+      "9": 37,
+      "10": 41,
+      "11": 46,
+      "12": 54,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Kelseyville_Unified_17_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1764022",
+    "name": "Konocti Unified",
+    "percents": {
+      "7": 24,
+      "9": 39,
+      "10": 43,
+      "11": 48,
+      "12": 56,
+      "NT": 82
+    },
+    "year": 2022,
+    "file": "Konocti_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1764030",
+    "name": "Lakeport Unified",
+    "percents": {
+      "7": 16,
+      "9": 47,
+      "10": 46,
+      "11": 44,
+      "12": 51,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Lakeport_Unified_17_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1764055",
+    "name": "Middletown Unified",
+    "percents": {
+      "7": 21,
+      "9": 33,
+      "10": 40,
+      "11": 48,
+      "12": 56,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Middletown_Unified_17_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1776976",
+    "name": "Upper Lake Unified",
+    "percents": {
+      "7": 33,
+      "9": 41,
+      "10": 50,
+      "11": 59,
+      "12": 69,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Upper_Lake_Unified_17_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1864089",
+    "name": "Big Valley Joint Unified",
+    "percents": {
+      "7": 0,
+      "9": null,
+      "11": null,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Big_Valley_Joint_Unified_18_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1864139",
+    "name": "Lassen Union High",
+    "percents": {
+      "9": 37,
+      "10": 44,
+      "11": 58,
+      "12": 52
+    },
+    "year": 2024,
+    "file": "Lassen_Union_High_18_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1864204",
+    "name": "Westwood Unified",
+    "percents": {
+      "9": 20,
+      "10": 40,
+      "11": null,
+      "12": null
+    },
+    "year": 2024,
+    "file": "Westwood_Unified_18_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "1875036",
+    "name": "Fort Sage Unified",
+    "percents": {
+      "7": 0,
+      "9": null,
+      "11": null,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Fort_Sage_Unified_18_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964212",
+    "name": "ABC Unified",
+    "percents": {
+      "7": 8,
+      "9": 16,
+      "10": 19,
+      "11": 24,
+      "12": 30,
+      "NT": 40
+    },
+    "year": 2024,
+    "file": "ABC_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964246",
+    "name": "Antelope Valley Union High",
+    "percents": {
+      "7": null,
+      "9": 30,
+      "10": 35,
+      "11": 40,
+      "12": 47,
+      "NT": 5
+    },
+    "year": 2018,
+    "file": "Antelope_Valley_Union_High_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964261",
+    "name": "Arcadia Unified",
+    "percents": {
+      "7": 7,
+      "9": 13,
+      "11": null,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Arcadia_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964279",
+    "name": "Azusa Unified",
+    "percents": {
+      "7": 15,
+      "9": 38,
+      "10": 42,
+      "11": 47,
+      "12": 55,
+      "NT": 5
+    },
+    "year": 2018,
+    "file": "Azusa_Unified_1718_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964287",
+    "name": "Baldwin Park Unified",
+    "percents": {
+      "7": 14,
+      "9": 18,
+      "10": 18,
+      "11": 20,
+      "12": 25,
+      "NT": 21
+    },
+    "year": 2024,
+    "file": "Baldwin_Park_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964295",
+    "name": "Bassett Unified",
+    "percents": {
+      "7": 14,
+      "9": 25,
+      "10": 29,
+      "11": 34,
+      "12": 41,
+      "NT": 48
+    },
+    "year": 2024,
+    "file": "Bassett_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964303",
+    "name": "Bellflower Unified",
+    "percents": {
+      "7": 12,
+      "9": 19,
+      "10": 21,
+      "11": 24,
+      "12": 29,
+      "NT": 29
+    },
+    "year": 2024,
+    "file": "Bellflower_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964311",
+    "name": "Beverly Hills Unified",
+    "percents": {
+      "9": 14,
+      "10": 27,
+      "11": 37,
+      "12": 39
+    },
+    "year": 2024,
+    "file": "Beverly_Hills_Unified_19_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "1964329",
+    "name": "Bonita Unified",
+    "percents": {},
+    "year": 2019,
+    "file": "Bonita_Unified_1819_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964337",
+    "name": "Burbank Unified",
+    "percents": {
+      "7": 23,
+      "9": 48,
+      "10": 56,
+      "11": 65,
+      "12": 75,
+      "NT": 93
+    },
+    "year": 2010,
+    "file": "burbank_sec0910_main.pdf"
+  },
+  {
+    "code": "1964352",
+    "name": "Centinela Valley Union High",
+    "percents": {
+      "9": 26,
+      "10": 26,
+      "11": 28,
+      "12": 32
+    },
+    "year": 2024,
+    "file": "Centinela_Valley_Union_High_19_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "1964378",
+    "name": "Charter Oak Unified",
+    "percents": {
+      "7": 13,
+      "9": 21,
+      "10": 30,
+      "11": 41,
+      "12": 49,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Charter_Oak_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964394",
+    "name": "Claremont Unified",
+    "percents": {
+      "7": 7,
+      "9": 13,
+      "10": 19,
+      "11": 27,
+      "12": 33,
+      "NT": 48
+    },
+    "year": 2024,
+    "file": "Claremont_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "1964436",
+    "name": "Covina-Valley Unified",
+    "percents": {
+      "7": 16,
+      "9": 23,
+      "10": 23,
+      "11": 24,
+      "12": 29,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Covina-Valley_Unified_19_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5075564",
+    "name": "Oakdale Joint Unified",
+    "percents": {
+      "7": 17,
+      "9": 33,
+      "10": 38,
+      "11": 44,
+      "12": 52,
+      "NT": 29
+    },
+    "year": 2024,
+    "file": "Oakdale_Joint_Unified_50_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5075572",
+    "name": "Waterford Unified",
+    "percents": {
+      "7": 23,
+      "9": 36,
+      "10": 42,
+      "11": 48,
+      "12": 56,
+      "NT": 79
+    },
+    "year": 2023,
+    "file": "Waterford_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5075739",
+    "name": "Turlock Unified",
+    "percents": {
+      "7": 10,
+      "9": 25,
+      "10": 30,
+      "11": 36,
+      "12": 43,
+      "NT": 37
+    },
+    "year": 2024,
+    "file": "Turlock_Unified_50_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5171373",
+    "name": "East Nicolaus Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 27,
+      "10": 36,
+      "11": 47,
+      "12": 55,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "East_Nicolaus_Joint_Union_High_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5171399",
+    "name": "Live Oak Unified",
+    "percents": {
+      "7": 11,
+      "9": 23,
+      "10": 29,
+      "11": 37,
+      "12": 44,
+      "NT": 29
+    },
+    "year": 2023,
+    "file": "Live_Oak_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5171449",
+    "name": "Sutter Union High",
+    "percents": {
+      "7": null,
+      "9": 27,
+      "10": 33,
+      "11": 40,
+      "12": 47,
+      "NT": null
+    },
+    "year": 2021,
+    "file": "Sutter_Union_High_2021_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5171464",
+    "name": "Yuba City Unified",
+    "percents": {
+      "7": 11,
+      "9": 19,
+      "10": 23,
+      "11": 28,
+      "12": 34,
+      "NT": 58
+    },
+    "year": 2024,
+    "file": "Yuba_City_Unified_51_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5271506",
+    "name": "Corning Union High",
+    "percents": {
+      "7": null,
+      "9": 29,
+      "10": 29,
+      "11": 29,
+      "12": 35,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Corning_Union_High_52_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5271571",
+    "name": "Los Molinos Unified",
+    "percents": {
+      "9": 28,
+      "10": 30,
+      "11": 26,
+      "12": 36
+    },
+    "year": 2024,
+    "file": "Los_Molinos_Unified_52_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "5271639",
+    "name": "Red Bluff Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 26,
+      "10": 29,
+      "11": 34,
+      "12": 41,
+      "NT": 42
+    },
+    "year": 2024,
+    "file": "Red_Bluff_Joint_Union_High_52_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5373833",
+    "name": "Southern Trinity Joint Unified",
+    "percents": {
+      "All": 45
+    },
+    "year": 2021,
+    "file": "Southern_Trinity_Joint_Unified_2021_Sec_CHKS_All.pdf"
+  },
+  {
+    "code": "5375028",
+    "name": "Mountain Valley Unified",
+    "percents": {
+      "7": 12,
+      "9": 40,
+      "10": 40,
+      "11": 40,
+      "12": 47,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Mountain_Valley_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5376513",
+    "name": "Trinity Alps Unified",
+    "percents": {
+      "7": 0,
+      "9": 28,
+      "10": 39,
+      "11": 51,
+      "12": 60,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Trinity_Alps_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5471803",
+    "name": "Alpaugh Unified",
+    "percents": {
+      "7": 13,
+      "9": 20,
+      "11": 0,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Alpaugh_Unified_54_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5471860",
+    "name": "Cutler-Orosi Joint Unified",
+    "percents": {
+      "7": 15,
+      "9": 19,
+      "10": 19,
+      "11": 20,
+      "12": 25,
+      "NT": 40
+    },
+    "year": 2024,
+    "file": "Cutler-Orosi_Joint_Unified_54_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5471993",
+    "name": "Lindsay Unified",
+    "percents": {
+      "9": 25,
+      "10": 16,
+      "11": 21,
+      "12": 26
+    },
+    "year": 2024,
+    "file": "Lindsay_Unified_54_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "5472249",
+    "name": "Tulare Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 21,
+      "10": 20,
+      "11": 19,
+      "12": 24,
+      "NT": 45
+    },
+    "year": 2024,
+    "file": "Tulare_Joint_Union_High_54_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5472256",
+    "name": "Visalia Unified",
+    "percents": {
+      "7": 11,
+      "9": 19,
+      "10": 19,
+      "11": 20,
+      "12": 25,
+      "NT": 37
+    },
+    "year": 2024,
+    "file": "Visalia_Unified_54_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5475325",
+    "name": "Farmersville Unified",
+    "percents": {
+      "7": 13,
+      "9": 22,
+      "10": 23,
+      "11": 25,
+      "12": 30,
+      "NT": 18
+    },
+    "year": 2023,
+    "file": "Farmersville_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5475523",
+    "name": "Porterville Unified",
+    "percents": {
+      "7": 13,
+      "9": 26,
+      "10": 29,
+      "11": 32,
+      "12": 38,
+      "NT": 31
+    },
+    "year": 2023,
+    "file": "Porterville_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5475531",
+    "name": "Dinuba Unified",
+    "percents": {
+      "7": 12,
+      "9": 19,
+      "10": 17,
+      "11": 16,
+      "12": 20,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Dinuba_Unified_54_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5476794",
+    "name": "Woodlake Unified",
+    "percents": {
+      "7": 15,
+      "9": 25,
+      "10": 25,
+      "11": 25,
+      "12": 30,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Woodlake_Unified_54_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5476836",
+    "name": "Exeter Unified",
+    "percents": {
+      "9": 20,
+      "10": 21,
+      "11": 19,
+      "12": 25
+    },
+    "year": 2024,
+    "file": "Exeter_Unified_54_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "5572389",
+    "name": "Sonora Union High",
+    "percents": {
+      "7": null,
+      "9": 35,
+      "10": 42,
+      "11": 49,
+      "12": 57,
+      "NT": 59
+    },
+    "year": 2024,
+    "file": "Sonora_Union_High_55_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "5572413",
+    "name": "Summerville Union High",
+    "percents": {
+      "7": 38,
+      "9": 37,
+      "11": null,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Summerville_Union_High_55_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "5575184",
+    "name": "Big Oak Flat-Groveland Unified",
+    "percents": {
+      "7": 18,
+      "9": 30,
+      "10": 39,
+      "11": 50,
+      "12": 59,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Big_Oak_Flat-Groveland_Unified_55_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "5672454",
+    "name": "Fillmore Unified",
+    "percents": {
+      "7": null,
+      "9": null,
+      "11": 29,
+      "NT": 39
+    },
+    "year": 2024,
+    "file": "Fillmore_Unified_56_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5672520",
+    "name": "Ojai Unified",
+    "percents": {
+      "7": 8,
+      "9": 25,
+      "10": 32,
+      "11": 41,
+      "12": 49,
+      "NT": 58
+    },
+    "year": 2024,
+    "file": "Ojai_Unified_56_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "5672546",
+    "name": "Oxnard Union High",
+    "percents": {
+      "7": null,
+      "9": 18,
+      "10": 20,
+      "11": 23,
+      "12": 28,
+      "NT": 40
+    },
+    "year": 2024,
+    "file": "Oxnard_Union_High_56_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5672603",
+    "name": "Simi Valley Unified",
+    "percents": {
+      "7": 8,
+      "9": 16,
+      "10": 21,
+      "11": 27,
+      "12": 33,
+      "NT": 47
+    },
+    "year": 2024,
+    "file": "Simi_Valley_Unified_56_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5672652",
+    "name": "Ventura Unified",
+    "percents": {
+      "7": 12,
+      "9": 25,
+      "10": 29,
+      "11": 35,
+      "12": 42,
+      "NT": 50
+    },
+    "year": 2024,
+    "file": "Ventura_Unified_56_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "5673759",
+    "name": "Conejo Valley Unified",
+    "percents": {
+      "7": 9,
+      "9": 22,
+      "10": 29,
+      "11": 38,
+      "12": 45,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Conejo_Valley_Unified_56_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5673874",
+    "name": "Oak Park Unified",
+    "percents": {
+      "7": 10,
+      "9": 17,
+      "10": 20,
+      "11": 25,
+      "12": 31,
+      "NT": 50
+    },
+    "year": 2024,
+    "file": "Oak_Park_Unified_56_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5673940",
+    "name": "Moorpark Unified",
+    "percents": {
+      "7": 14,
+      "9": 16,
+      "10": 20,
+      "11": 25,
+      "12": 31,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Moorpark_Unified_56_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5676828",
+    "name": "Santa Paula Unified",
+    "percents": {
+      "7": null,
+      "9": 26,
+      "10": 28,
+      "11": 31,
+      "12": 37,
+      "NT": 44
+    },
+    "year": 2022,
+    "file": "Santa_Paula_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5772678",
+    "name": "Davis Joint Unified",
+    "percents": {
+      "7": 8,
+      "9": 20,
+      "10": 26,
+      "11": 34,
+      "12": 41,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Davis_Joint_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5772686",
+    "name": "Esparto Unified",
+    "percents": {
+      "7": 10,
+      "9": 6,
+      "10": 23,
+      "11": 44,
+      "12": 53,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Esparto_Unified_57_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "5772694",
+    "name": "Washington Unified",
+    "percents": {
+      "7": 16,
+      "9": 24,
+      "10": 32,
+      "11": 41,
+      "12": 49,
+      "NT": 65
+    },
+    "year": 2022,
+    "file": "Washington_Unified_57_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5772702",
+    "name": "Winters Joint Unified",
+    "percents": {
+      "7": 14,
+      "9": 12,
+      "10": 16,
+      "11": 22,
+      "12": 28,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Winters_Joint_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5772710",
+    "name": "Woodland Joint Unified",
+    "percents": {
+      "7": 12,
+      "9": 26,
+      "10": 29,
+      "11": 32,
+      "12": 38,
+      "NT": 46
+    },
+    "year": 2024,
+    "file": "Woodland_Joint_Unified_57_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5872736",
+    "name": "Marysville Joint Unified",
+    "percents": {
+      "7": 13,
+      "9": 27,
+      "10": 31,
+      "11": 35,
+      "12": 42,
+      "NT": 37
+    },
+    "year": 2023,
+    "file": "Marysville_Joint_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "5872769",
+    "name": "Wheatland Union High",
+    "percents": {
+      "7": null,
+      "9": 31,
+      "10": 34,
+      "11": 37,
+      "12": 44,
+      "NT": 62
+    },
+    "year": 2023,
+    "file": "Wheatland_Union_High_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3773551",
+    "name": "Carlsbad Unified",
+    "percents": {
+      "7": 6,
+      "9": 16,
+      "10": 20,
+      "11": 26,
+      "12": 32,
+      "NT": 52
+    },
+    "year": 2024,
+    "file": "Carlsbad_Unified_37_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3773569",
+    "name": "Oceanside Unified",
+    "percents": {
+      "7": 15,
+      "9": 26,
+      "10": 31,
+      "11": 37,
+      "12": 44,
+      "NT": 44
+    },
+    "year": 2022,
+    "file": "Oceanside_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3773791",
+    "name": "San Marcos Unified",
+    "percents": {
+      "7": 8,
+      "9": 16,
+      "10": 22,
+      "11": 30,
+      "12": 37,
+      "NT": 43
+    },
+    "year": 2024,
+    "file": "San_Marcos_Unified_37_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3775416",
+    "name": "Warner Unified",
+    "percents": {
+      "7": 21,
+      "9": null,
+      "11": 9,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Warner_Unified_37_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3775614",
+    "name": "Valley Center-Pauma Unified",
+    "percents": {
+      "7": 8,
+      "9": 22,
+      "10": 34,
+      "11": 49,
+      "12": 58,
+      "NT": 40
+    },
+    "year": 2022,
+    "file": "Valley_Center-Pauma_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3776851",
+    "name": "Bonsall Unified",
+    "percents": {
+      "7": 9,
+      "9": 19,
+      "10": 21,
+      "11": 24,
+      "12": 29,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Bonsall_Unified_37_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3868478",
+    "name": "San Francisco Unified",
+    "percents": {
+      "7": 8,
+      "9": 22,
+      "10": 24,
+      "11": 27,
+      "12": 33,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "San_Francisco_Unified_38_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3968502",
+    "name": "Escalon Unified",
+    "percents": {
+      "7": 7,
+      "9": 26,
+      "10": 31,
+      "11": 38,
+      "12": 45,
+      "NT": 50
+    },
+    "year": 2024,
+    "file": "Escalon_Unified_39_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3968569",
+    "name": "Lincoln Unified",
+    "percents": {
+      "7": 9,
+      "9": 26,
+      "10": 29,
+      "11": 34,
+      "12": 41,
+      "NT": 46
+    },
+    "year": 2024,
+    "file": "Lincoln_Unified_39_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3968577",
+    "name": "Linden Unified",
+    "percents": {
+      "7": 8,
+      "9": 21,
+      "10": 30,
+      "11": 41,
+      "12": 49,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Linden_Unified_39_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3968585",
+    "name": "Lodi Unified",
+    "percents": {
+      "7": 10,
+      "9": 22,
+      "10": 24,
+      "11": 28,
+      "12": 34,
+      "NT": 66
+    },
+    "year": 2022,
+    "file": "Lodi_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3968593",
+    "name": "Manteca Unified",
+    "percents": {
+      "7": 11,
+      "9": 17,
+      "10": 18,
+      "11": 20,
+      "12": 25,
+      "NT": 53
+    },
+    "year": 2024,
+    "file": "Manteca_Unified_39_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3968650",
+    "name": "Ripon Unified",
+    "percents": {
+      "7": 10,
+      "9": 19,
+      "10": 23,
+      "11": 29,
+      "12": 35,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Ripon_Unified_39_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3968676",
+    "name": "Stockton Unified",
+    "percents": {
+      "7": 12,
+      "9": 19,
+      "10": 21,
+      "11": 25,
+      "12": 31,
+      "NT": 29
+    },
+    "year": 2023,
+    "file": "Stockton_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3975499",
+    "name": "Tracy Joint Unified",
+    "percents": {
+      "7": 13,
+      "9": 23,
+      "10": 25,
+      "11": 28,
+      "12": 34,
+      "NT": 38
+    },
+    "year": 2024,
+    "file": "Tracy_Joint_Unified_39_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3976760",
+    "name": "Lammersville Joint Unified",
+    "percents": {
+      "7": 6,
+      "9": 12,
+      "10": 15,
+      "11": 20,
+      "12": 25,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Lammersville_Joint_Unified_39_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "3977388",
+    "name": "Banta Unified",
+    "percents": {
+      "7": 5,
+      "9": null,
+      "11": null,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Banta_Unified_39_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4068700",
+    "name": "Atascadero Unified",
+    "percents": {
+      "7": 13,
+      "9": 29,
+      "10": 31,
+      "11": 33,
+      "12": 39,
+      "NT": 66
+    },
+    "year": 2024,
+    "file": "Atascadero_Unified_40_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "4068759",
+    "name": "Lucia Mar Unified",
+    "percents": {
+      "9": 20,
+      "10": 25,
+      "11": 29,
+      "12": 40
+    },
+    "year": 2024,
+    "file": "Lucia_Mar_Unified_40_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "4068809",
+    "name": "San Luis Coastal Unified",
+    "percents": {
+      "9": 27,
+      "10": 29,
+      "11": 40,
+      "12": 44
+    },
+    "year": 2024,
+    "file": "San_Luis_Coastal_Unified_40_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "4068833",
+    "name": "Shandon Joint Unified",
+    "percents": {
+      "7": 6,
+      "9": 38,
+      "10": 44,
+      "11": 50,
+      "12": 58,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Shandon_Joint_Unified_40_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "4068841",
+    "name": "Templeton Unified",
+    "percents": {
+      "7": 14,
+      "9": 34,
+      "10": 47,
+      "11": 62,
+      "12": 72,
+      "NT": 67
+    },
+    "year": 2024,
+    "file": "Templeton_Unified_40_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "4075457",
+    "name": "Paso Robles Joint Unified",
+    "percents": {
+      "7": 14,
+      "9": 26,
+      "10": 29,
+      "11": 33,
+      "12": 39,
+      "NT": 32
+    },
+    "year": 2024,
+    "file": "Paso_Robles_Joint_Unified_40_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "4075465",
+    "name": "Coast Unified",
+    "percents": {
+      "7": 14,
+      "9": 31,
+      "10": 31,
+      "11": 31,
+      "12": 37,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Coast_Unified_40_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "4168890",
+    "name": "Cabrillo Unified",
+    "percents": {
+      "7": 11,
+      "9": 31,
+      "10": 39,
+      "11": 48,
+      "12": 56,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Cabrillo_Unified_41_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4168924",
+    "name": "Jefferson Union High",
+    "percents": {
+      "7": null,
+      "9": 25,
+      "10": 27,
+      "11": 30,
+      "12": 36,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Jefferson_Union_High_41_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4168940",
+    "name": "La Honda-Pescadero Unified",
+    "percents": {
+      "7": 12,
+      "9": 15,
+      "10": 28,
+      "11": 43,
+      "12": 52,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "La_Honda-Pescadero_Unified_41_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4169047",
+    "name": "San Mateo Union High",
+    "percents": {
+      "7": null,
+      "9": 20,
+      "10": 24,
+      "11": 29,
+      "12": 35,
+      "NT": 40
+    },
+    "year": 2024,
+    "file": "San_Mateo_Union_High_41_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4169062",
+    "name": "Sequoia Union High",
+    "percents": {
+      "7": null,
+      "9": 19,
+      "10": 24,
+      "11": 30,
+      "12": 36,
+      "NT": 33
+    },
+    "year": 2024,
+    "file": "Sequoia_Union_High_41_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4169070",
+    "name": "South San Francisco Unified",
+    "percents": {
+      "7": 13,
+      "9": 22,
+      "10": 20,
+      "11": 19,
+      "12": 23,
+      "NT": 25
+    },
+    "year": 2023,
+    "file": "South_San_Francisco_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4269146",
+    "name": "Carpinteria Unified",
+    "percents": {
+      "7": 10,
+      "9": 24,
+      "10": 20,
+      "11": 17,
+      "12": 21,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Carpinteria_Unified_42_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4269229",
+    "name": "Lompoc Unified",
+    "percents": {
+      "7": 14,
+      "9": 27,
+      "10": 28,
+      "11": 30,
+      "12": 36,
+      "NT": 45
+    },
+    "year": 2024,
+    "file": "Lompoc_Unified_42_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4269310",
+    "name": "Santa Maria Joint Union High",
+    "percents": {
+      "7": null,
+      "9": 21,
+      "10": 24,
+      "11": 28,
+      "12": 34,
+      "NT": 45
+    },
+    "year": 2023,
+    "file": "Santa_Maria_Joint_Union_High_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4269328",
+    "name": "Santa Ynez Valley Union High",
+    "percents": {
+      "7": null,
+      "9": 23,
+      "10": 33,
+      "11": 46,
+      "12": 55,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Santa_Ynez_Valley_Union_High_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4275010",
+    "name": "Cuyama Joint Unified",
+    "percents": {
+      "9": 15,
+      "10": 18,
+      "11": 21,
+      "12": 26
+    },
+    "year": 2024,
+    "file": "Cuyama_Joint_Unified_42_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "4276786",
+    "name": "Santa Barbara Unified",
+    "percents": {
+      "7": 15,
+      "9": 22,
+      "10": 26,
+      "11": 32,
+      "12": 38,
+      "NT": 47
+    },
+    "year": 2023,
+    "file": "Santa_Barbara_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4369401",
+    "name": "Campbell Union High",
+    "percents": {
+      "9": 16,
+      "10": 16,
+      "11": 21,
+      "12": 27
+    },
+    "year": 2024,
+    "file": "Campbell_Union_High_43_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "4369427",
+    "name": "East Side Union High",
+    "percents": {
+      "7": null,
+      "9": 17,
+      "10": 20,
+      "11": 25,
+      "12": 31,
+      "NT": 45
+    },
+    "year": 2024,
+    "file": "East_Side_Union_High_43_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4369468",
+    "name": "Fremont Union High",
+    "percents": {
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null
+    },
+    "year": 2024,
+    "file": "Fremont_Union_High_43_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "4369484",
+    "name": "Gilroy Unified",
+    "percents": {
+      "7": 12,
+      "9": 16,
+      "10": 20,
+      "11": 25,
+      "12": 31,
+      "NT": 45
+    },
+    "year": 2024,
+    "file": "Gilroy_Unified_43_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "4369534",
+    "name": "Los Gatos-Saratoga Joint Union High",
+    "percents": {
+      "9": 17,
+      "10": 25,
+      "11": 40,
+      "12": 50
+    },
+    "year": 2023,
+    "file": "Los_Gatos-Saratoga_Union_High_2223_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "0161119",
+    "name": "Alameda Unified",
+    "percents": {
+      "7": 10,
+      "9": 17,
+      "10": 14,
+      "11": 12,
+      "12": 16,
+      "NT": 43
+    },
+    "year": 2024,
+    "file": "Alameda_Unified_01_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0161127",
+    "name": "Albany City Unified",
+    "percents": {
+      "7": 14,
+      "9": 23,
+      "10": 35,
+      "11": 49,
+      "12": 58,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Albany_City_Unified_01_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0161143",
+    "name": "Berkeley Unified",
+    "percents": {
+      "7": 12,
+      "9": 35,
+      "10": 47,
+      "11": 60,
+      "12": 70,
+      "NT": 64
+    },
+    "year": 2024,
+    "file": "Berkeley_Unified_01_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0161150",
+    "name": "Castro Valley Unified",
+    "percents": {
+      "7": 8,
+      "9": 17,
+      "10": 22,
+      "11": 29,
+      "12": 35,
+      "NT": 50
+    },
+    "year": 2024,
+    "file": "Castro_Valley_Unified_01_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "0161168",
+    "name": "Emery Unified",
+    "percents": {
+      "9": 14,
+      "10": 34,
+      "11": 23,
+      "12": 25
+    },
+    "year": 2024,
+    "file": "Emery_Unified_01_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "0161176",
+    "name": "Fremont Unified",
+    "percents": {
+      "7": 6,
+      "9": 16,
+      "10": 16,
+      "11": 18,
+      "12": 23,
+      "NT": 54
+    },
+    "year": 2024,
+    "file": "Fremont_Unified_01_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0161192",
+    "name": "Hayward Unified",
+    "percents": {
+      "7": 11,
+      "9": 25,
+      "10": 28,
+      "11": 33,
+      "12": 39,
+      "NT": 75
+    },
+    "year": 2024,
+    "file": "Hayward_Unified_01_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "0161200",
+    "name": "Livermore Valley Joint Unified",
+    "percents": {
+      "7": 10,
+      "9": 19,
+      "10": 21,
+      "11": 25,
+      "12": 31,
+      "NT": 19
+    },
+    "year": 2024,
+    "file": "Livermore_Valley_Joint_Unified_01_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0161234",
+    "name": "Newark Unified",
+    "percents": {
+      "7": 7,
+      "9": 21,
+      "10": 26,
+      "11": 33,
+      "12": 40,
+      "NT": 54
+    },
+    "year": 2024,
+    "file": "Newark_Unified_01_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0161242",
+    "name": "New Haven Unified",
+    "percents": {
+      "7": 14,
+      "9": 25,
+      "10": 22,
+      "11": 19,
+      "12": 23,
+      "NT": 44
+    },
+    "year": 2024,
+    "file": "New_Haven_Unified_01_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "0161259",
+    "name": "Oakland Unified",
+    "percents": {
+      "9": 31,
+      "10": 30,
+      "11": 36,
+      "12": 40
+    },
+    "year": 2022,
+    "file": "Oakland_Unified_2122_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "0161275",
+    "name": "Piedmont City Unified",
+    "percents": {
+      "9": 27,
+      "10": 34,
+      "11": 49,
+      "12": 65
+    },
+    "year": 2024,
+    "file": "Piedmont_City_Unified_01_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "0161291",
+    "name": "San Leandro Unified",
+    "percents": {
+      "9": 20,
+      "10": 23,
+      "11": 24,
+      "12": 29
+    },
+    "year": 2024,
+    "file": "San_Leandro_Unified_01_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "0161309",
+    "name": "San Lorenzo Unified",
+    "percents": {
+      "7": 14,
+      "9": 29,
+      "10": 31,
+      "11": 34,
+      "12": 40,
+      "NT": 20
+    },
+    "year": 2024,
+    "file": "San_Lorenzo_Unified_01_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0175093",
+    "name": "Dublin Unified",
+    "percents": {
+      "7": 6,
+      "9": 15,
+      "10": 21,
+      "11": 29,
+      "12": 35,
+      "NT": 28
+    },
+    "year": 2022,
+    "file": "Dublin_Unified_2122_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0175101",
+    "name": "Pleasanton Unified",
+    "percents": {
+      "9": 13,
+      "10": 14,
+      "11": 27,
+      "12": 33
+    },
+    "year": 2024,
+    "file": "Pleasanton_Unified_01_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "0261333",
+    "name": "Alpine County Unified",
+    "percents": {
+      "7": 10,
+      "9": null,
+      "11": null,
+      "NT": null
+    },
+    "year": 2019,
+    "file": "Alpine_County_Unified_1819_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0373981",
+    "name": "Amador County Unified",
+    "percents": {
+      "7": 16,
+      "9": 29,
+      "10": 34,
+      "11": 40,
+      "12": 47,
+      "NT": 56
+    },
+    "year": 2024,
+    "file": "Amador_County_Unified_03_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "0461408",
+    "name": "Biggs Unified",
+    "percents": {
+      "9": null,
+      "10": 46,
+      "11": null,
+      "12": null
+    },
+    "year": 2022,
+    "file": "Biggs_Unified_2122_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "0461424",
+    "name": "Chico Unified",
+    "percents": {
+      "7": 13,
+      "9": 26,
+      "10": 34,
+      "11": 44,
+      "12": 52,
+      "NT": 57
+    },
+    "year": 2023,
+    "file": "Chico_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0461432",
+    "name": "Durham Unified",
+    "percents": {
+      "9": 11,
+      "10": 22,
+      "11": 45,
+      "12": 54
+    },
+    "year": 2024,
+    "file": "Durham_Unified_04_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "0461515",
+    "name": "Oroville Union High",
+    "percents": {
+      "9": 39,
+      "10": 45,
+      "11": 46,
+      "12": 52
+    },
+    "year": 2023,
+    "file": "Oroville_Union_High_2223_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "0461531",
+    "name": "Paradise Unified",
+    "percents": {
+      "9": 34,
+      "10": 33,
+      "11": 53,
+      "12": 56
+    },
+    "year": 2024,
+    "file": "Paradise_Unified_04_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "0475507",
+    "name": "Gridley Unified",
+    "percents": {
+      "7": 25,
+      "9": 44,
+      "10": 40,
+      "11": 34,
+      "12": 40,
+      "NT": 83
+    },
+    "year": 2024,
+    "file": "Gridley_Unified_04_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0561556",
+    "name": "Bret Harte Union High",
+    "percents": {
+      "7": null,
+      "9": 47,
+      "10": 46,
+      "11": 44,
+      "12": 51,
+      "NT": 80
+    },
+    "year": 2024,
+    "file": "Bret_Harte_Union_High_05_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "0561564",
+    "name": "Calaveras Unified",
+    "percents": {
+      "7": 13,
+      "9": 35,
+      "10": 37,
+      "11": 39,
+      "12": 46,
+      "NT": 38
+    },
+    "year": 2024,
+    "file": "Calaveras_Unified_05_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "0661598",
+    "name": "Colusa Unified",
+    "percents": {
+      "7": 24,
+      "9": 24,
+      "10": 26,
+      "11": 28,
+      "12": 34,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Colusa_Unified_06_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0661606",
+    "name": "Maxwell Unified",
+    "percents": {
+      "7": null,
+      "9": 23,
+      "11": null,
+      "NT": null
+    },
+    "year": 2023,
+    "file": "Maxwell_Unified_2223_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0661614",
+    "name": "Pierce Joint Unified",
+    "percents": {
+      "9": 12,
+      "10": 30,
+      "11": 20,
+      "12": 36
+    },
+    "year": 2024,
+    "file": "Pierce_Joint_Unified_06_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "0661622",
+    "name": "Williams Unified",
+    "percents": {
+      "9": 12,
+      "10": 16,
+      "11": 15,
+      "12": 14
+    },
+    "year": 2024,
+    "file": "Williams_Unified_06_2324_Sec_CHKS_Grd9-12.pdf"
+  },
+  {
+    "code": "0761630",
+    "name": "Acalanes Union High",
+    "percents": {
+      "7": null,
+      "9": 22,
+      "10": 36,
+      "11": 52,
+      "12": 62,
+      "NT": null
+    },
+    "year": 2024,
+    "file": "Acalanes_Union_High_07_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "0761648",
+    "name": "Antioch Unified",
+    "percents": {
+      "7": 16,
+      "9": 34,
+      "10": 41,
+      "11": 48,
+      "12": 56,
+      "NT": 44
+    },
+    "year": 2024,
+    "file": "Antioch_Unified_07_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "0761697",
+    "name": "John Swett Unified",
+    "percents": {
+      "9": 18,
+      "10": 35,
+      "11": 46,
+      "12": 47
+    },
+    "year": 2024,
+    "file": "John_Swett_Unified_07_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "0761721",
+    "name": "Liberty Union High",
+    "percents": {
+      "7": null,
+      "9": 27,
+      "10": 33,
+      "11": 40,
+      "12": 47,
+      "NT": 54
+    },
+    "year": 2024,
+    "file": "Liberty_Union_High_07_2324_Sec_CHKS_I.pdf"
+  },
+  {
+    "code": "0761739",
+    "name": "Martinez Unified",
+    "percents": {
+      "7": 11,
+      "9": 20,
+      "10": 27,
+      "11": 35,
+      "12": 42,
+      "NT": 48
+    },
+    "year": 2024,
+    "file": "Martinez_Unified_07_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0761754",
+    "name": "Mt. Diablo Unified",
+    "percents": {
+      "7": 11,
+      "9": 20,
+      "10": 25,
+      "11": 32,
+      "12": 39,
+      "NT": 38
+    },
+    "year": 2024,
+    "file": "Mt._Diablo_Unified_07_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0761788",
+    "name": "Pittsburg Unified",
+    "percents": {
+      "7": 17,
+      "9": 27,
+      "10": 30,
+      "11": 33,
+      "12": 39,
+      "NT": 51
+    },
+    "year": 2024,
+    "file": "Pittsburg_Unified_07_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0761796",
+    "name": "West Contra Costa Unified",
+    "percents": {
+      "9": 22,
+      "10": 22,
+      "11": 30,
+      "12": 30
+    },
+    "year": 2024,
+    "file": "West_Contra_Costa_Unified_07_2324_Sec_CHKS_Grd9-12_I.pdf"
+  },
+  {
+    "code": "0761804",
+    "name": "San Ramon Valley Unified",
+    "percents": {
+      "7": 6,
+      "9": 15,
+      "10": 19,
+      "11": 25,
+      "12": 31,
+      "NT": 60
+    },
+    "year": 2024,
+    "file": "San_Ramon_Valley_Unified_07_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0861820",
+    "name": "Del Norte County Unified",
+    "percents": {
+      "7": 17,
+      "9": 38,
+      "10": 34,
+      "11": 29,
+      "12": 34,
+      "NT": 70
+    },
+    "year": 2024,
+    "file": "Del_Norte_County_Unified_08_2324_Sec_CHKS.pdf"
+  },
+  {
+    "code": "0961853",
+    "name": "El Dorado Union High",
+    "percents": {
+      "7": null,
+      "9": 27,
+      "10": 33,
+      "11": 41,
+      "12": 49,
+      "NT": 81
+    },
+    "year": 2024,
+    "file": "El_Dorado_Union_High_09_2324_Sec_CHKS_I.pdf"
+  }
+]

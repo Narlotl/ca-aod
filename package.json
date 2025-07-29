@@ -4,6 +4,7 @@
   },
   "type": "module",
   "dependencies": {
+    "ml-regression-multivariate-linear": "^2.0.4",
     "topojson-server": "^3.0.1",
     "topojson-simplify": "^3.0.3"
   }

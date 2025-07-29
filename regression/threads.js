@@ -14,13 +14,13 @@ await new Promise((resolve, reject) => {
 
 console.log('Parsing report files');
 
-const files = readdirSync('data/reports/');
+const files = readdirSync('reports/');
 let districts = [];
 
 const promises = [];
 for (let i = 0; i < cpus().length - 1; i++)
     promises.push(new Promise((resolve, reject) => {
-        const worker = new Worker('./scripts/parse.js', // Relative path is required
+        const worker = new Worker('./parse.js', // Relative path is required
             { workerData: files.slice(i * files.length / 10, (i + 1) * files.length / 10) }
         );
         worker.on('message', data => {
@@ -31,8 +31,7 @@ for (let i = 0; i < cpus().length - 1; i++)
 
 await Promise.all(promises);
 
-// Match file to percents
-const reports = JSON.parse(readFileSync('data/reports.json', 'utf8'));
+const reports = JSON.parse(readFileSync('reports.json', 'utf8'));
 for (let i = 0; i < districts.length; i++)
     for (let j = 0; j < reports.length; j++)
         if (districts[i].code === reports[j].code) {
@@ -41,4 +40,4 @@ for (let i = 0; i < districts.length; i++)
             break;
         }
 
-writeFileSync('data/percents.json', JSON.stringify(districts, null, 2));
+writeFileSync('percents.json', JSON.stringify(districts, null, 2));
