@@ -7,7 +7,7 @@ School districts in California are encouraged every year to administer the [Cali
 - Percent data from CHKS responses parsed from California Department of Education [report files](https://dq.cde.ca.gov/dataquest/page2.asp?level=District&subject=HKids&submit1=Submit)*.
 - District boundaries from [California School District Areas 2023-24](https://gis.data.ca.gov/datasets/CDEGIS::california-school-district-areas-2023-24/about) dataset on the California State Geoportal.
 
-*It is important to interpret these results with caution. Results can be significantly impacted by response rates, the type of parental consent used (passive or active), gender differences, regional variations, and other issues. The CHKS is only one of many data sources.
+**It is important to interpret these results with caution. Results can be significantly impacted by response rates, the type of parental consent used (passive or active), gender differences, regional variations, and other issues. The CHKS is only one of many data sources.*
 
 ## Run it yourself
 
